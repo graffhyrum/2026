@@ -175,7 +175,7 @@ thead {
 .pytx-hero__image {
     align-self: center;
     order: 0;
-    max-height: 25rem;
+    max-height: 20rem;
     padding-bottom: .05rem;
     display: flex;
     justify-content: center;
@@ -191,7 +191,6 @@ thead {
     width: auto;
     object-fit: contain;
     display: block;
-    padding-top: 3rem;
 }
 
 .pytx-button {

@@ -1,6 +1,19 @@
 # PyTexas Conference 2026 Website
 
 ## Development
+
+### PC Gotcha
+
+If you are on a Windows machine, you will likely run into an error when running `mkdocs serve`. If you follow [the troubleshooting guide](https://t.ly/MfX6u), note that you may also need to [install MYSYS2](https://www.msys2.org/).
+
+When installed and run, put this into the MYSYS2 terminal:
+
+```
+pacman -S mingw-w64-ucrt-x86_64-cairo
+```
+
+### Regular Process
+
 1. Create a virtual environment
     ```
     python -m venv venv
@@ -16,6 +29,10 @@
 4. Run dev server
     ```
     mkdocs serve
+    ```
+    Or if you wish to have it automatically update as you change the code, run:
+    ```
+    mkdocs serve --watch-theme
     ```
 
 ## Adding Announcement Banners

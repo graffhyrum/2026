@@ -176,7 +176,22 @@ thead {
     align-self: center;
     order: 0;
     max-height: 25rem;
-    padding-bottom: 1rem;
+    padding-bottom: .05rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.pytx-hero__image img {
+    max-width: 100%;
+    max-height: 18rem;
+    height: auto;
+    width: auto;
+    object-fit: contain;
+    display: block;
+    padding-top: 3rem;
 }
 
 .pytx-button {

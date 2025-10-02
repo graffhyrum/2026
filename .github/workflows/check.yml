@@ -1,11 +1,11 @@
-name: ci
+name: Dependency Review
 on:  # Triggers on PRs.
   - pull_request
 permissions:
   contents: read
   pull-requests: write
 jobs:
-  deploy:
+  dependency-review:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

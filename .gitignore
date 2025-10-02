@@ -1,11 +1,29 @@
 .idea/*
 .DS_Store
-venv/
-output/
 __pycache__/
 .cache/
 site/*
 
-# poetry isn't used by anyone else
-poetry.lock
-pyproject.toml
+# Virtual environments
+venv/
+.venv/
+
+# Build outputs
+output/
+dist/
+build/
+
+# UV package manager
+uv.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Lychee cache
+.lycheecache/

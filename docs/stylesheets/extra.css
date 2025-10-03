@@ -37,27 +37,28 @@
     --pytx-brown: #443229;
     --pytx-dark-brown: #1a1410;
     --pytx-very-dark: #0f0a08;
-    --background-color: #ffffff;
+    --pytx-light-cream: #FAFAF8;
+    --background-color: #000000;
     --primary-background-color: var(--pytx-blue);
 
     /* Material Design Variables */
     --md-primary-fg-color: var(--primary-background-color);
-    --md-default-fg-color: var(--pytx-very-dark);
+    --md-default-fg-color: var(--pytx-light-cream);
     --md-primary-fg-color--light: var(--pytx-blue);
-    --md-default-fg-color--light: var(--pytx-yellow);
+    --md-default-fg-color--light: var(--pytx-light-cream);
     --md-primary-fg-color--dark: var(--pytx-yellow);
     --md-default-fg-color--dark: var(--pytx-yellow);
     --md-typeset-a-color: var(--pytx-yellow);
     --md-primary-fg-color--transparent: var(--pytx-yellow);
-    --md-primary-bg-color: var(--pytx-dark-brown);
+    --md-primary-bg-color: var(--background-color);
     --md-primary-bg-color--transparent: var(--pytx-yellow);
-    --md-default-bg-color: var(--pytx-dark-brown);
+    --md-default-bg-color: var(--background-color);
     --md-accent-fg-color: var(--pytx-yellow);
     --md-accent-fg-color--transparent: var(--pytx-yellow);
     --md-accent-a-color: var(--pytx-orange);
     --md-accent-bg-color: var(--pytx-brown);
     --md-table-head-color: var(--pytx-yellow);
-    --md-table-head-font: var(--pytx-very-dark);
+    --md-table-head-font: var(--background-color);
 }
 
 [data-md-color-scheme="pytx2026_light"] div[class~="hide-if-light"] {
@@ -134,8 +135,8 @@ figcaption>a:focus {
 }
 
 [data-md-color-scheme="pytx2026"] .md-nav--lifted>.md-nav__list>.md-nav__item--active>.md-nav__link {
-    background: var(--md-primary-fg-color);
-    box-shadow: 0 0 .4rem .4rem var(--md-primary-fg-color);
+    background: var(--background-color);
+    box-shadow: 0 0 .4rem .4rem var(--background-color);
     font-weight: 700;
     margin-top: 0;
     padding: 0 .6rem;
@@ -159,7 +160,17 @@ figcaption>a:focus {
 }
 
 [data-md-color-scheme="pytx2026"] .md-nav__list {
-    background-color: var(--md-primary-fg-color) !important;
+    background-color: var(--background-color) !important;
+}
+
+/* Night mode navigation links */
+[data-md-color-scheme="pytx2026"] .md-nav__link {
+    color: var(--pytx-yellow) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="pytx2026"] .md-nav__item .md-nav__link--active code {
+    color: var(--pytx-yellow) !important;
 }
 
 
@@ -179,7 +190,8 @@ thead {
 }
 
 [data-md-color-scheme="pytx2026"] .md-typeset details.question {
-    border-color: var(--md-accent-a-color);
+    border-color: var(--pytx-blue);
+    background-color: var(--pytx-dark-brown);
 }
 
 [data-md-color-scheme="pytx2026_light"] .md-typeset .question>summary::before,
@@ -189,7 +201,7 @@ thead {
 
 [data-md-color-scheme="pytx2026"] .md-typeset .question>summary::before,
 [data-md-color-scheme="pytx2026"] .md-typeset .question>summary::after {
-    background-color: var(--md-accent-a-color);
+    background-color: var(--pytx-blue);
 }
 
 [data-md-color-scheme="pytx2026_light"] .md-typeset .question>summary {
@@ -197,7 +209,13 @@ thead {
 }
 
 [data-md-color-scheme="pytx2026"] .md-typeset .question>summary {
-    background-color: var(--logo-yellow);
+    background-color: rgba(75, 142, 194, 0.2);
+    color: var(--pytx-light-cream);
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset details.question p,
+[data-md-color-scheme="pytx2026"] .md-typeset details.question li {
+    color: var(--pytx-light-cream);
 }
 
 .pytx-container {
@@ -281,20 +299,36 @@ thead {
 }
 
 [data-md-color-scheme="pytx2026"] .pytx-button--primary {
-    background-color: var(--md-primary-fg-color--dark);
-    color: var(--md-primary-bg-color) !important;
+    background-color: var(--pytx-yellow);
+    color: var(--background-color) !important;
 }
 
 [data-md-color-scheme="pytx2026_light"] .pytx-button:focus,
-[data-md-color-scheme="pytx2026_light"] .pytx-button:hover {
+[data-md-color-scheme="pytx2026_light"] .pytx-button:hover,
+[data-md-color-scheme="pytx2026_light"] .pytx-button--primary:focus,
+[data-md-color-scheme="pytx2026_light"] .pytx-button--primary:hover {
     background-color: var(--pytx-yellow);
     color: var(--pytx-brown);
 }
 
 [data-md-color-scheme="pytx2026"] .pytx-button:focus,
-[data-md-color-scheme="pytx2026"] .pytx-button:hover {
-    background-color: var(--md-primary-fg-color--light);
-    color: var(--md-primary-bg-color);
+[data-md-color-scheme="pytx2026"] .pytx-button:hover,
+[data-md-color-scheme="pytx2026"] .pytx-button--primary:focus,
+[data-md-color-scheme="pytx2026"] .pytx-button--primary:hover {
+    background-color: var(--pytx-orange);
+    color: var(--pytx-light-cream);
+}
+
+[data-md-color-scheme="pytx2026"] .md-button.pytx-button--primary:hover,
+[data-md-color-scheme="pytx2026"] .md-button.pytx-button--primary:focus {
+    background-color: var(--pytx-orange) !important;
+    color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-button.pytx-button--primary:hover,
+[data-md-color-scheme="pytx2026_light"] .md-button.pytx-button--primary:focus {
+    background-color: var(--pytx-yellow) !important;
+    color: var(--pytx-brown) !important;
 }
 
 .pytx-prospectus-graph {
@@ -303,6 +337,28 @@ thead {
 
 .pytx-prospectus-graph-lg {
     width: 80%;
+}
+
+/* Grid cards borders */
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards > ul > li,
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards > ol > li,
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards > * {
+    border: 1px solid var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards > ul > li,
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards > ol > li,
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards > * {
+    border: 1px solid var(--pytx-blue) !important;
+}
+
+/* Grid cards hr dividers */
+[data-md-color-scheme="pytx2026_light"] .md-typeset .grid.cards hr {
+    border-top: 1px solid var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-typeset .grid.cards hr {
+    border-top: 1px solid var(--pytx-blue) !important;
 }
 
 .glow {

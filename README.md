@@ -12,28 +12,6 @@ When installed and run, put this into the MYSYS2 terminal:
 pacman -S mingw-w64-ucrt-x86_64-cairo
 ```
 
-### Regular Process
-
-1. Create a virtual environment
-    ```
-    python -m venv venv
-    ```
-2. Activate virtual environment
-    ```
-    source venv/bin/activate
-    ```
-3. Pip install requirements
-    ```
-    pip install -r requirements.txt
-    ```
-4. Run dev server
-    ```
-    mkdocs serve
-    ```
-    Or if you wish to have it automatically update as you change the code, run:
-    ```
-    mkdocs serve --watch-theme
-    ```
 ## Prerequisites
 
 - Python 3.8 or later

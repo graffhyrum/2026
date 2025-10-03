@@ -1,5 +1,39 @@
 # PyTexas Conference 2026 Website
 
+## Development
+
+### PC Gotcha
+
+If you are on a Windows machine, you will likely run into an error when running `mkdocs serve`. If you follow [the troubleshooting guide](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#troubleshooting) note that you may also need to [install MYSYS2](https://www.msys2.org/).
+
+When installed and run, put this into the MYSYS2 terminal:
+
+```
+pacman -S mingw-w64-ucrt-x86_64-cairo
+```
+
+### Regular Process
+
+1. Create a virtual environment
+    ```
+    python -m venv venv
+    ```
+2. Activate virtual environment
+    ```
+    source venv/bin/activate
+    ```
+3. Pip install requirements
+    ```
+    pip install -r requirements.txt
+    ```
+4. Run dev server
+    ```
+    mkdocs serve
+    ```
+    Or if you wish to have it automatically update as you change the code, run:
+    ```
+    mkdocs serve --watch-theme
+    ```
 ## Prerequisites
 
 - Python 3.8 or later
@@ -75,3 +109,15 @@ The repository uses GitHub Actions for continuous integration and deployment:
 ## Project Structure
 
 See [CLAUDE.md](CLAUDE.md) for detailed project structure and development guidelines.
+
+## Hex Colors
+
+Hex code for the colors for this year's logo
+
+green #204F3C
+yellow #C2B64A
+orange #C73810
+brown #443229
+blue #4B8EC2
+
+

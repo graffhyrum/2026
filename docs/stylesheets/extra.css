@@ -204,15 +204,12 @@ thead {
     background: var(--md-primary-bg-color);
     display: flex;
     flex-direction: column;
-    flex-grow: 1;
-    height: 100%;
-    padding-top: .5rem;
+    padding-top: 0;
 }
 
 .pytx-hero {
     margin: 0;
     color: var(--md-default-fg-color);
-    justify-content: center;
 }
 
 .pytx-hero__content {
@@ -223,22 +220,44 @@ thead {
 .pytx-hero__image {
     align-self: center;
     order: 0;
-    max-height: 20rem;
-    padding-bottom: .05rem;
+    max-height: 14rem;
+    padding-bottom: 0;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
-    overflow: hidden;
+    flex-shrink: 0;
 }
 
 .pytx-hero__image img {
     max-width: 100%;
-    max-height: 18rem;
+    max-height: 14rem;
     height: auto;
     width: auto;
     object-fit: contain;
     display: block;
+}
+
+/* Tablet screens */
+@media screen and (min-width: 768px) {
+    .pytx-hero__image {
+        max-height: 18rem;
+    }
+
+    .pytx-hero__image img {
+        max-height: 18rem;
+    }
+}
+
+/* Desktop screens */
+@media screen and (min-width: 1024px) {
+    .pytx-hero__image {
+        max-height: 22rem;
+    }
+
+    .pytx-hero__image img {
+        max-height: 22rem;
+    }
 }
 
 .pytx-button {

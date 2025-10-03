@@ -4,7 +4,7 @@ template: home.html
 description: The PyTexas 2026 Conference will be April 17 - 19, 2026 in Austin, Texas. We hope to see y'all there!
 ---
 
-# 20 Years of PyTexas, Deep in the 💛 of Texas!
+# 20 Years of PyTexas, Deep in the 🧡 of Texas!
 ## April 17 - 19, 2026 in Austin, TX
 
 Join us for the **20th year** of the largest gathering of Python developers within the great state of Texas. We'll discuss software development, data science, community, and of course: Python.
@@ -29,9 +29,9 @@ Join us for the **20th year** of the largest gathering of Python developers with
 
     ---
 
-    Our Call for Proposals (CFP) will open in Fall 2025! Check back later for more information.
+    Our Call for Proposals (CFP) is open! **Submissions end at 11:59pm on 12/7/2025.**
 
-    [:octicons-arrow-right-24: Subscribe to our mailing list to get notified](https://mailchi.mp/035388afb48a/pytexas-community)
+    [:octicons-arrow-right-24: Submit to the CFP](https://pretalx.com/pytexas-2026/)
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 

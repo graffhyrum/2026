@@ -4,7 +4,7 @@
 
 ### PC Gotcha
 
-If you are on a Windows machine, you will likely run into an error when running `mkdocs serve`. If you follow [the troubleshooting guide](https://t.ly/MfX6u), note that you may also need to [install MYSYS2](https://www.msys2.org/).
+If you are on a Windows machine, you will likely run into an error when running `mkdocs serve`. If you follow [the troubleshooting guide](https://squidfunk.github.io/mkdocs-material/plugins/requirements/image-processing/#troubleshooting) note that you may also need to [install MYSYS2](https://www.msys2.org/).
 
 When installed and run, put this into the MYSYS2 terminal:
 

@@ -88,8 +88,7 @@ Here are some ways you can help us build a more diverse conference experience:
   representation of the richness of our collective human experience. Help us do this by following
   our [code of conduct](about.md#code-of-conduct).
 
-Credit for the original version of this document goes
-to [O'Reilly Media](http://assets.en.oreilly.com/1/eventprovider/1/ConfDiversity.pdf)
+Credit for the original version of this document goes to O'Reilly Media, although the orignal version was removed from their website sometime in September 2025.
 
 ## Privacy Statement
 

@@ -92,7 +92,7 @@
 }
 
 [data-md-color-scheme="pytx2026"] div[class~="pytx-container"] {
-    background: #000000;
+    background: linear-gradient(to bottom, rgba(75, 142, 194, 0.4), #000000);
 }
 
 figcaption {
@@ -390,6 +390,16 @@ thead {
 
 .sponsor-black {
     background-color: black;
+}
+
+/* Announcement banner */
+.md-banner__inner {
+    text-align: center;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-banner a,
+[data-md-color-scheme="pytx2026"] .md-banner a {
+    color: var(--pytx-blue) !important;
 }
 
 /* Footer - Tree Trunk Theme */

@@ -109,3 +109,15 @@ The repository uses GitHub Actions for continuous integration and deployment:
 ## Project Structure
 
 See [CLAUDE.md](CLAUDE.md) for detailed project structure and development guidelines.
+
+## Hex Colors
+
+Hex code for the colors for this year's logo
+
+green #204F3C
+yellow #C2B64A
+orange #C73810
+brown #443229
+blue #4B8EC2
+
+

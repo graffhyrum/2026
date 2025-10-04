@@ -1,6 +1,6 @@
 ---
 title: Opportunity Grants
-description: Information about opportunity grants
+description: Money should never stop you from attending PyTexas
 ---
 
 ## Opportunity Grants
@@ -23,7 +23,6 @@ If you are facing a financial hardship, or would not be able to attend without a
 * Applications will be approved mid February 2026
 * Notifications will be sent out by the end of February 2026
 
-**Grant applications from participants from Texas and surround areas will be 
-prioritized first.**
+**Grant applications from participants from Texas and surround areas will be  prioritized first.**
 
 [Check back later](){: .pytx-button .pytx-button--primary}

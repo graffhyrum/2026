@@ -54,6 +54,7 @@ nav:
   - Sponsors:
      # - sponsors/index.md
       - sponsors/sponsor-us.md
+  - Speaking: speaking.md
  # - Schedule:
  #     - Event Schedule: schedule/index.md
  #     - Keynotes: schedule/keynotes.md

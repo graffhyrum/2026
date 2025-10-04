@@ -64,8 +64,8 @@ plugins:
   - search
   - social:
       cards_layout_options:
-        background_color: "#606070"
-        color: "#FCE004"
+        background_color: "#f9f3e3"
+        color: "#204F3C"
  # - redirects:
  #     redirect_maps:
  #       "slido.md": "https://app.sli.do/event/jvbu7Qns7A1BRRsXJQqgHt"

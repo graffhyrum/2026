@@ -395,6 +395,11 @@ thead {
 /* Announcement banner */
 .md-banner__inner {
     text-align: center;
+    position: relative;
+}
+
+.md-banner__inner p {
+    padding-right: 3rem;
 }
 
 [data-md-color-scheme="pytx2026_light"] .md-banner a,

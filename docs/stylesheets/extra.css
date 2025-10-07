@@ -220,14 +220,14 @@ thead {
 
 .pytx-container {
     background: var(--md-primary-bg-color);
-    display: flex;
-    flex-direction: column;
-    padding-top: 0;
+    display: block;
+    padding: 2rem 0;
 }
 
 .pytx-hero {
     margin: 0;
     color: var(--md-default-fg-color);
+    display: block;
 }
 
 .pytx-hero__content {
@@ -236,15 +236,12 @@ thead {
 }
 
 .pytx-hero__image {
-    align-self: center;
-    order: 0;
     max-height: 14rem;
-    padding-bottom: 0;
+    padding: 1rem 0 2rem 0;
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
-    flex-shrink: 0;
 }
 
 .pytx-hero__image img {

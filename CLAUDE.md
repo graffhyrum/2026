@@ -151,3 +151,4 @@ The site is automatically deployed to GitHub Pages when changes are pushed to th
 2. **Before committing**: `just check`
 3. **Full validation**: `just validate && just link-check`
 4. **Clean rebuild**: `just clean && just build`
+- To view the rendered output of the site, run `uv run mkdocs build` and analyze the files in the @site/ directory

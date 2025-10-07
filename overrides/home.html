@@ -19,6 +19,23 @@
         display: none;
       }
     }
+
+    /* Prevent main content from overlapping hero */
+    .md-main {
+      padding-top: 0.5rem !important;
+    }
+
+    @media screen and (min-width: 768px) {
+      .md-main {
+        padding-top: 3rem !important;
+      }
+    }
+
+    @media screen and (min-width: 1024px) {
+      .md-main {
+        padding-top: 2rem !important;
+      }
+    }
 </style>
 {% endblock %}
 {% block hero %}

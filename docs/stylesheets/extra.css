@@ -389,13 +389,58 @@ figcaption>a:focus {
     }
 }
 
-.md-search-result__meta {
-    background-color: var(--primary-background-color) !important;
-    color: var(--md-default-fg-color--light);
+/* Search results - Light mode */
+[data-md-color-scheme="pytx2026_light"] .md-search-result__meta {
+    background-color: var(--pytx-light-cream) !important;
+    color: var(--pytx-brown) !important;
 }
 
-.md-search-result {
-    background-color: var(--primary-background-color) !important;
+[data-md-color-scheme="pytx2026_light"] .md-search-result {
+    background-color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result__article {
+    background-color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result__title {
+    color: var(--pytx-green) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result__teaser {
+    color: var(--pytx-brown) !important;
+}
+
+[data-md-color-scheme="pytx2026_light"] .md-search-result mark {
+    background-color: var(--pytx-yellow) !important;
+    color: var(--pytx-brown) !important;
+}
+
+/* Search results - Dark mode */
+[data-md-color-scheme="pytx2026"] .md-search-result__meta {
+    background-color: var(--pytx-blue) !important;
+    color: var(--background-color) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result {
+    background-color: var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result__article {
+    background-color: var(--pytx-blue) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result__title {
+    color: var(--background-color) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result__teaser {
+    color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-search-result mark {
+    background-color: var(--pytx-yellow) !important;
+    color: var(--pytx-brown) !important;
 }
 
 .sponsor {

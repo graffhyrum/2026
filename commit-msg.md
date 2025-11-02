@@ -1,13 +1,13 @@
-Add sponsorship advocacy guide for community members
+Refine sponsorship advocacy guide for clarity and brevity
 
-Created a comprehensive guide to help PyTexas community members advocate for their companies to sponsor the conference. The new page provides persona-specific outreach strategies, email templates, and objection handling for individuals who want their employer to sponsor but don't control purchasing decisions.
+Streamlined the community member sponsorship guide by removing redundant content and clarifying language to improve readability and effectiveness.
 
 Changes:
-- Add docs/sponsors/asking-for-sponsorship.md with 5 decision-maker personas (DevRel, Recruiting, Marketing, Engineering Leadership, Sales)
-- Include expandable email templates using MkDocs Material admonitions
-- Add objection handling guide and internal champion tips
-- Provide copy-paste one-pager template for internal use
-- Update mkdocs.yml navigation to include new "Ask Your Company" page under Sponsors section
-- Add descriptive titles to existing sponsor navigation items
+- Remove "Quick Context for Your Pitch" section (talking points already present in email templates)
+- Remove "Tips for Internal Champions" section (content overlapped with role-specific sections and objection handling)
+- Simplify closing line in all email templates: changed "I'm also happy to answer any questions you may have about my experience with them" to "I'm happy to discuss this opportunity further if helpful" (removes assumption of personal attendance)
+- Clarify CFP reference in Engineering Leadership template: changed "The [CFP] is currently open" to "The speaker submission period is currently open" (removes jargon)
+- Fix typos: remove double "for" in all "How to Find Them" sections
+- Fix punctuation: add missing dash in "first day - popular tiers will sell out"
 
-The guide emphasizes PyTexas's 20th anniversary, day-one sponsorship sale for urgency, and provides ready-to-use templates to reduce friction for internal advocates.
+Result: Document reduced from 325 to 281 lines (~14% shorter) while maintaining all core functionality. Email templates remain intact with full bullet points. The guide is now more focused and likely to be read completely by community members.

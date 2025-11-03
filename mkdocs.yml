@@ -58,7 +58,8 @@ nav:
       #- Virtual Attendance: attend/virtual.md
   - Sponsors:
      # - sponsors/index.md
-      - sponsors/sponsor-us.md
+      - Sponsor Us: sponsors/sponsor-us.md
+      - Ask Your Company: sponsors/asking-for-sponsorship.md
   - Speaking: speaking.md
  # - Schedule:
  #     - Event Schedule: schedule/index.md

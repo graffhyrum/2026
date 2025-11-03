@@ -1,10 +1,8 @@
 # How to Ask Your Company to Sponsor PyTexas
 
-**Want your company to sponsor PyTexas but unsure who to approach or how to make the case?** This guide provides you with everything you need to successfully advocate for sponsorship within your organization even if you don't hold purchasing power.
+**Want your company to sponsor PyTexas but unsure who to approach or how to make the case?** 
 
-We've identified the key decision-makers at most companies, explained why PyTexas matters to them, and provided ready-to-use email templates. 
-One sponsor signed up the first day we released our prospectus, so timing matters. 
-Help us make sure your company doesn't miss this opportunity!
+One of the largest challenges for people is not knowing whom or how to ask for sponsorship. So to help out we've identified the key decision-makers within most companies that you can ask. We've provide explanations as to why PyTexas may matter to them, and provided ready-to-use message templates you can use to get the ball rolling. Help us make sure your company is represented at PyTexas this year! 
 
 ---
 
@@ -264,7 +262,7 @@ When advocating for sponsorship internally, you may encounter pushback. Here's h
 
 ### "Python isn't our primary language/focus."
 
-**Response:** "Python is the #2 most-used language globally and dominates in data science, ML, DevOps, and backend engineering. Even if it's not our primary language, these are engineers who work across stacks. Also, 9% of attendees are DevOps/SRE, 11% are data scientists these roles touch multiple technologies."
+**Response:** "Python is the #1 most-used language globally and dominates in data science, ML, DevOps, and backend engineering. Even if it's not our primary language, these are engineers who work across stacks."
 
 ### "Can we do this next year?"
 

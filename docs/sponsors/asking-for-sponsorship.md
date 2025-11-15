@@ -1,4 +1,9 @@
-# How to Ask Your Company to Sponsor PyTexas
+---
+title: How to Ask Your Company to Sponsor PyTexas
+description: Want to see your company sponsor PyTexas but don't know how to ask? Check out our guide!
+---
+
+
 
 **Want your company to sponsor PyTexas but unsure who to approach or how to make the case?** 
 

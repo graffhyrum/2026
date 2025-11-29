@@ -57,7 +57,7 @@ nav:
       - Opportunity Grants: attend/grants.md
       #- Virtual Attendance: attend/virtual.md
   - Sponsors:
-     # - sponsors/index.md
+      - Our Sponsors: sponsors/index.md
       - Sponsor Us: sponsors/sponsor-us.md
       - Ask Your Company: sponsors/asking-for-sponsorship.md
   - Speaking: speaking.md

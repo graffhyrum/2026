@@ -29,9 +29,9 @@ Join us for the **20th year** of the largest gathering of Python developers with
 
     ---
 
-    Our Call for Proposals (CFP) is open! **Submissions end at 11:59pm on 12/7/2025.**
+    Our Call for Proposals has closed. We're reviewing submissions and will announce speakers in late January/early February!
 
-    [:octicons-arrow-right-24: Submit to the CFP](https://pretalx.com/pytexas-2026/)
+    [:octicons-arrow-right-24: Subscribe for speaker announcements](https://mailchi.mp/035388afb48a/pytexas-community)
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 

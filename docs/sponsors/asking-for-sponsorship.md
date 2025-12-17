@@ -184,7 +184,7 @@ You likely already know them! Your manager's manager, the VP/Director of Enginee
 
     - **Team development:** Sponsorship includes tickets + discounted corporate tickets for our engineers to attend
     - **Employer brand:** Positions us as invested in the Python/engineering community
-    - **Speaking opportunity:** The speaker submission period is currently open, and top-tier sponsors receive a guaranteed speaking slot
+    - **Speaking opportunity:** Top-tier Platinum sponsors receive a guaranteed speaking slot (subject to approval)
     - **Low risk, high visibility:** Bronze tier is $1K for logo placement, table, and pitch slot
 
     I've seen companies in cloud infrastructure, developer tools, consulting, and AI/ML sponsor similar events to strengthen their technical community presence.

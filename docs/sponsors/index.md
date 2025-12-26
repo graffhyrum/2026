@@ -8,6 +8,12 @@ Add your name to this list!
 
 [Sponsor Us!](sponsor-us.md){: .md-button .pytx-button--primary}
 
+## Platinum Sponsors
+
+[![Microsoft Sponsor Logo](../assets/images/sponsors/microsoft.png){: width="350" align="left" .sponsor}](https://www.microsoft.com/en-us/)
+
+<br clear=all>
+
 
 ## Media and Technology Sponsors
 

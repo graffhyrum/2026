@@ -281,4 +281,4 @@ When advocating for sponsorship internally, you may encounter pushback. Here's h
 
 ## Need More Information?
 
-Visit our [sponsorship prospectus page](/sponsors/sponsor-us/) for complete details on sponsorship tiers, attendee demographics, and benefits. If you have questions or need help making the case internally, reach out to us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).
+Visit our [sponsorship prospectus page](sponsor-us.md) for complete details on sponsorship tiers, attendee demographics, and benefits. If you have questions or need help making the case internally, reach out to us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org).

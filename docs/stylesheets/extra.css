@@ -345,6 +345,18 @@ figcaption>a:focus {
     color: var(--pytx-brown) !important;
 }
 
+[data-md-color-scheme="pytx2026_light"] .md-button--primary:hover,
+[data-md-color-scheme="pytx2026_light"] .md-button--primary:focus {
+    background-color: var(--pytx-orange) !important;
+    color: var(--pytx-light-cream) !important;
+}
+
+[data-md-color-scheme="pytx2026"] .md-button--primary:hover,
+[data-md-color-scheme="pytx2026"] .md-button--primary:focus {
+    background-color: var(--pytx-orange) !important;
+    color: var(--pytx-light-cream) !important;
+}
+
 .pytx-prospectus-graph {
     width: 49%;
 }

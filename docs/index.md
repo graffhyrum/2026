@@ -7,6 +7,8 @@ description: The PyTexas 2026 Conference will be April 17 - 19, 2026 in Austin, 
 # 20 Years of PyTexas, Deep in the 🧡 of Texas!
 ## April 17 - 19, 2026 in Austin, TX
 
+[Purchase Early Bird Tickets](https://pretix.eu/pytexas/2026/){ .md-button .md-button--primary }
+
 Join us for the **20th year** of the largest gathering of Python developers within the great state of Texas. We'll discuss software development, data science, community, and of course: Python.
 
 <div class="grid cards" markdown>
@@ -21,9 +23,9 @@ Join us for the **20th year** of the largest gathering of Python developers with
 
     ---
 
-    Early bird tickets will go on sale in Fall 2025! Check back later for more information.
-    
-    [:octicons-arrow-right-24: Subscribe to our mailing list to get notified](https://mailchi.mp/035388afb48a/pytexas-community)
+    Early bird tickets are on sale now through January 19!
+
+    [:octicons-arrow-right-24: Purchase your ticket](https://pretix.eu/pytexas/2026/)
 
 -   :fontawesome-solid-microphone-lines:{ .lg .middle} __Speak__
 

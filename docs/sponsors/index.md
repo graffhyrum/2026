@@ -18,3 +18,5 @@ Add your name to this list!
 ## Media and Technology Sponsors
 
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="150" align="left" .sponsor}](https://devitjobs.com/jobs/python/all/all)
+
+[![Pretix Sponsor Logo](../assets/images/sponsors/pretix.svg){: width="300" align="left" .sponsor}](https://pretix.eu/)

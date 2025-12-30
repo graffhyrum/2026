@@ -18,10 +18,10 @@ If you are facing a financial hardship, or would not be able to attend without a
 
 **Important dates:**
 
-* Applications will open 12/01/2025
-* Applications will close 1/31/2026
-* Applications will be approved mid February 2026
-* Notifications will be sent out by the end of February 2026
+* Applications will open 01/01/2026
+* Applications will close 02/15/2026
+* Applications will be approved end of February 2026
+* Notifications will be sent out first week of March
 
 **Grant applications from participants from Texas and surround areas will be  prioritized first.**
 

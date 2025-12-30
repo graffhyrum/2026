@@ -61,9 +61,9 @@ nav:
       - Sponsor Us: sponsors/sponsor-us.md
       - Ask Your Company: sponsors/asking-for-sponsorship.md
  # - Speaking: speaking.md
- # - Schedule:
+  - Schedule:
  #     - Event Schedule: schedule/index.md
- #     - Keynotes: schedule/keynotes.md
+      - Keynotes: schedule/keynotes.md
  #     - Tutorials: schedule/tutorials.md
  #     - Talks: schedule/talks.md
   - FAQ: faq.md

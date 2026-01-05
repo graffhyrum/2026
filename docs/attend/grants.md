@@ -25,4 +25,4 @@ If you are facing a financial hardship, or would not be able to attend without a
 
 **Grant applications from participants from Texas and surround areas will be  prioritized first.**
 
-[Check back later](){: .pytx-button .pytx-button--primary}
+[Apply for a Grant](https://forms.gle/3g4CrKBxb6ktxVbu8){: .pytx-button .pytx-button--primary}

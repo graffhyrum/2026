@@ -15,6 +15,20 @@ Add your name to this list!
 <br clear=all>
 
 
+## Gold Sponsors
+
+[![Elastic Sponsor Logo](../assets/images/sponsors/elastic.png){: width="300" align="left" .sponsor}](https://www.elastic.co/)
+
+<br clear=all>
+
+
+## Networking Event Sponsors
+
+[![GitButler Sponsor Logo](../assets/images/sponsors/GitButler.png){: width="300" align="left" .sponsor}](https://gitbutler.com/)
+
+<br clear=all>
+
+
 ## Media and Technology Sponsors
 
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="150" align="left" .sponsor}](https://devitjobs.com/jobs/python/all/all)

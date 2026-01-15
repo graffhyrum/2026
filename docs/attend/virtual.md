@@ -11,14 +11,14 @@ The virtual conference portion will be held in the [PyTexas Discord Server](http
 ## Gaining Access to the Correct Channels
 
 1. Join the [PyTexas Discord Server](https://discord.gg/jNPAbcNukj)
-1. Check-In and receive the `Conference 2025 Attendees` role
+1. Check-In and receive the `Conference 2026 Attendees` role
     1. In _any_ text channel you can type the command: `/register EMAIL_ADDRESS`
     where `EMAIL_ADDRESS` is the email address that was used to register your ticket.
         1. When you type the command you should see a prompt for your `attendee_email` like this:
         ![`/register` command example](../assets/images/virtual/register.png)  
         This will send an ephemeral message, meaning only you will be able to see it. 
         1. On success, you should see the output `Registered!`, have the role 
-        `Conference 2025 Attendees` added to your profile, and have access to the 
+        `Conference 2026 Attendees` added to your profile, and have access to the 
         `PyTexas Conference` section and channels on the left hand nav bar.
         ![Nav bar](../assets/images/virtual/nav-bar.png)
             1. If this command does not work for you, try a few more times. If 
@@ -47,8 +47,8 @@ it is within our code of conduct.)
 
 ## Asking the Speaker Questions
 
-This year we will be using [Slido](https://pytexas.org/2025/slido)
+This year we will be using [Slido](https://pytexas.org/2026/slido)
 to ask the speaker questions. Slido allows you to submit your question and up-vote
 other questions you'd like to hear the answer to. 
 
-[Join the Slido](https://pytexas.org/2025/slido){: .pytx-button .pytx-button--primary}
+[Join the Slido](https://pytexas.org/2026/slido){: .pytx-button .pytx-button--primary}

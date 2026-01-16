@@ -62,9 +62,9 @@ nav:
       - Ask Your Company: sponsors/asking-for-sponsorship.md
  # - Speaking: speaking.md
   - Schedule:
- #     - Event Schedule: schedule/index.md
+      - Event Schedule: schedule/index.md
       - Keynotes: schedule/keynotes.md
- #     - Tutorials: schedule/tutorials.md
+      - Tutorials: schedule/tutorials.md
       - Talks: schedule/talks.md
   - FAQ: faq.md
 plugins:

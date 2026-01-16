@@ -41,6 +41,8 @@ Participants should have the following for the hands-on portion of the tutorial:
 
 #### Presenter: Heather Crawford
 
+![Heather Crawford Headshot](https://pycon-assets.s3.amazonaws.com/2024/media/speaker_photos/187.jpg.256x256_q85.jpg){: style="height:150px;width:150px" align=left}
+
 _Heather Crawford is an Engineering Technical Trainer at Bloomberg and a former university professor. In her roles as a professional educator, she has taught learners at many levels from university students at all levels to both entry-level and experienced software engineers. She has presented at many academic and industry conferences. A Python lover, Heather has used it since 2007._
 
 <br clear="all">
@@ -75,7 +77,7 @@ You'll walk away with:
 
 #### Presenter: Bernát Gábor
 
-![Bernát Gábor Avatar](https://pretalx.com/media/avatars/EGPZKP_JRfRMlH.jpeg){: style="height:150px;width:150px" align=left}
+![Bernát Gábor Avatar](https://avatars.githubusercontent.com/u/690238?v=4){: style="height:150px;width:150px" align=left}
 
 _Bernát works at Bloomberg US - Los Angeles on the data ingestion pipelines quality control segment. He is a PSF Fellow and has authored numorous highly used Python packages. You can find a full list [here](https://bernat.tech/about/)_
 

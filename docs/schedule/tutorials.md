@@ -8,7 +8,7 @@ description: Tutorials will be held April 17, 2026.
 |       Time        | Tutorial | Instructor |
 | :---------------: | :------: | :--------: |
 | 09:00am - 12:00pm | [Import is Important: The Secret Life of Python Modules and Packages](#import-is-important-the-secret-life-of-python-modules-and-packages)  |    Heather Crawford
-| 01:30pm - 04:30pm | [Becoming a Better Python Developer with AI](#becoming-a-better-python-developer-with-ai) | Bernát Gábor
+| 01:00pm - 04:00pm | [Becoming a Better Python Developer with AI](#becoming-a-better-python-developer-with-ai) | Bernát Gábor
 | 04:30pm - 06:00pm | [**SPONSOR TUTORIAL** To Be Determined](#sponsor-tutorial-to-be-determined) | Microsoft
 
 ## Tutorials

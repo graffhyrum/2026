@@ -15,7 +15,7 @@ We will show how to apply schema validation, introduce simple sandboxing rules, 
 
 **Speaker: Maria Silvia Mielniczuk**
 
-![Maria Silvia Mielniczuk Headshot](../assets/images/placeholder.png){: width="150" align=left}
+![Maria Silvia Mielniczuk Headshot](../assets/images/speakers/Maria_Silvia_Mielniczuk.png){: width="150" align=left}
 
 _Maria Silvia Mielniczuk is a data scientist with a Master of Applied Data Science from the University of Michigan (2025). She works at Splunk, a Cisco company, helping customers in Brazil tackle big-data challenges in cybersecurity and observability across financial services, ecommerce, and healthcare. Originally from Argentina, she spent 17 years living in Brazil and Mexico before becoming a proud Texan. She's also happily married and the mother of three teenage boys — her true inspiration to run marathons._
 
@@ -97,7 +97,7 @@ Data Engineering doesn't have to be a constant cycle of firefighting. By borrowi
 
 **Speaker: Indrasena Manga**
 
-![Indrasena Manga Headshot](../assets/images/placeholder.png){: width="150" align=left}
+![Indrasena Manga Headshot](../assets/images/speakers/Indrasena_Manga.png){: width="150" align=left}
 
 _Indrasena Manga, a Senior Data Engineer at AXS.com (Texas, USA) with expertise in AI/ML systems, real-time data streaming, and large-scale data engineering. I've authored 10+ Scopus and IEEE indexed research papers, served as a Session Chair & Guest Speaker at IEEE ComputingCon-2025, served as a Session chair for GCAT-2025, and completed 30+ peer reviews for Elsevier, Springer, and IEEE. I'm a provisional patent holder (USPTO) for an AI-driven disaster relief system and an active member of IEEE, ACM (SIGAI, SIGKDD), and SCRS._
 

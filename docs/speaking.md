@@ -11,7 +11,7 @@ PyTexas is a single-track conference with a total attendence of ~250 people.
 ## Call for proposals
 
 * The Call For Proposals (CFP) opens **October 1, 2025** and runs through **December 7, 2025**
-* Looking for guidance on how to write a CFP? Check out [this blog](https://pytexas.us11.list-manage.com/track/click?u=93d4ab771d0c2e4facc053add&id=18c642b4eb&e=842cd614c5)!
+* Looking for guidance on how to write a CFP? Check out [this blog](https://mason.dev/blog/how-i-write-conference-talk-proposals)!
 * When you're ready, submit your proposal [here](https://pretalx.com/pytexas-2026/)
 
 ## Talks

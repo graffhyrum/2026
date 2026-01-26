@@ -77,6 +77,8 @@ plugins:
  #     redirect_maps:
  #       "slido.md": "https://app.sli.do/event/jvbu7Qns7A1BRRsXJQqgHt"
  #       "reg.md": "https://forms.gle/2zJZKi68eJcefoDW7"
+hooks:
+  - hooks/schedule.py
 extra:
   generator: false
   social:

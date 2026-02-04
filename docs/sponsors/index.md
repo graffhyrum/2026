@@ -12,6 +12,8 @@ Add your name to this list!
 
 [![Microsoft Sponsor Logo](../assets/images/sponsors/microsoft.png){: width="350" align="left" .sponsor}](https://www.microsoft.com/en-us/)
 
+[![Temporal Sponsor Logo](../assets/images/sponsors/temporal.png){: width="350" align="left" .sponsor}](https://temporal.io/)
+
 <br clear=all>
 
 

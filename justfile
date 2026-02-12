@@ -21,9 +21,9 @@ serve:
 serve-port PORT="8001":
     uv run mkdocs serve --dev-addr=127.0.0.1:{{PORT}}
 
-# Check all links using lychee with caching (avoids 429 errors)
-link-check:
-    lychee --cache --verbose .
+# Check all links using lychee against the built site (builds first)
+link-check: build
+    lychee --cache --verbose 'site/**/*.html'
 
 # Clean generated files and cache
 clean:
@@ -33,8 +33,8 @@ clean:
     find . -name "*.pyc" -delete
     find . -name ".DS_Store" -delete
 
-# Run all quality checks (build + link check)
-check: build link-check
+# Run all quality checks (link-check includes build)
+check: link-check
 
 # Validate mkdocs configuration
 validate:

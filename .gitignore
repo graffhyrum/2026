@@ -1,4 +1,5 @@
 .lycheeignore
+.lycheecache
 commit-msg.md
 .idea/*
 .DS_Store

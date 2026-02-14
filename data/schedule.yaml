@@ -1,0 +1,161 @@
+# PyTexas 2026 Conference Schedule Data
+# This file contains all the schedule information in a structured format.
+# Run `python build_schedule.py` to generate the schedule/index.md file.
+#
+# SCHEDULE CONSTRAINTS & NOTES:
+# - Saturday: 9:00 AM start, 6:00 PM networking event (hard stop) = 9 hours
+# - Sponsor slots (Microsoft): 90 minutes each (Friday + Saturday)
+# - Lunch: 100 minutes minimum (off-campus lunch with organizer-led groups downtown)
+# - Preserving break space is a priority
+#
+# LIGHTNING TALKS:
+# - Sunday has 40-minute lightning talk slot (4:10-4:50 PM)
+# - Saturday is fully packed and cannot accommodate lightning talks with current constraints
+# - Moving a Saturday talk to Sunday is *possible*, but pushes Sunday pretty late as most people cut out to travel home.
+# - CONTINGENCY: If a talk drops before the event, use that 30-minute slot for Saturday
+#   lightning talks (6 talks) rather than backfilling with a replacement speaker
+
+friday:
+  - time: "09:00am - 12:00pm"
+    title: "Import is Important: The Secret Life of Python Modules and Packages"
+    link: "tutorials.md#import-is-important-the-secret-life-of-python-modules-and-packages"
+    speaker: "Heather Crawford"
+  - time: "12:00pm - 1:30pm"
+    title: "Lunch"
+    speaker: null
+  - time: "01:30pm - 04:30pm"
+    title: "Becoming a Better Python Developer with AI"
+    link: "tutorials.md#becoming-a-better-python-developer-with-ai"
+    speaker: "Bernát Gábor"
+  - time: "04:30pm - 06:00pm"
+    title: "SPONSOR TUTORIAL To Be Determined"
+    speaker: "Microsoft"
+
+saturday:
+  - time: "08:00 AM"
+    title: "Registration Opens & Breakfast"
+    speaker: null
+  - time: "09:00 AM"
+    title: "Day 1 Opening Remarks"
+    speaker: null
+  - time: "09:20 AM"
+    title: "Keynote"
+    link: "keynotes.md#dawn-wages"
+    speaker: "Dawn Wages"
+  - time: "10:05 AM"
+    title: "15 Minute Break"
+    speaker: null
+  - time: "10:20 AM"
+    title: "Python as Your DSL"
+    link: "talks.md#python-as-your-dsl"
+    speaker: "Moshe Zadka"
+  - time: "10:50 AM"
+    title: "I Built an AI Running Coach (That Actually Remembers My Training)"
+    link: "talks.md#i-built-an-ai-running-coach-that-actually-remembers-my-training"
+    speaker: "Adam Gordon Bell"
+  - time: "11:20 AM"
+    title: "10 Minute Break"
+    speaker: null
+  - time: "11:30 AM"
+    title: "Using MCP to Build Safe, Auditable AI Systems in Python"
+    link: "talks.md#using-mcp-to-build-safe-auditable-ai-systems-in-python"
+    speaker: "Maria Silvia Mielniczuk"
+  - time: "12:00 PM"
+    title: "Mastered development but still stuck? The hidden power of soft skills in your codebase."
+    link: "talks.md#mastered-development-but-still-stuck-the-hidden-power-of-soft-skills-in-your-codebase"
+    speaker: "Sumaiya Nalukwago"
+  - time: "12:30 PM"
+    title: "Lunch"
+    speaker: null
+  - time: "02:15 PM"
+    title: "Why Installing Python Packages Is Still a Security Risk"
+    link: "talks.md#why-installing-python-packages-is-still-a-security-risk"
+    speaker: "Christopher Ariza"
+  - time: "02:45 PM"
+    title: "Behind the Magic: Unlocking Python's Descriptor Protocol"
+    link: "talks.md#behind-the-magic-unlocking-pythons-descriptor-protocol"
+    speaker: "Scott Irwin"
+  - time: "03:15 PM"
+    title: "Data Engineer's survival guide: writing pipelines that don't break at 3 AM"
+    link: "talks.md#data-engineers-survival-guide-writing-pipelines-that-dont-break-at-3-am"
+    speaker: "Indrasena Manga"
+  - time: "03:45 PM"
+    title: "15-Minute Break"
+    speaker: null
+  - time: "04:00 PM"
+    title: "Failed Experiments in Vibe Coding"
+    link: "talks.md#failed-experiments-in-vibe-coding"
+    speaker: "Al Sweigart"
+  - time: "04:30 PM"
+    title: "**SPONSOR TALK** To Be Determined"
+    speaker: "Microsoft"
+  - time: "06:00 PM"
+    title: "Lightning Talks"
+    speaker: null
+  - time: "06:30 PM"
+    title: "Networking Event Starts"
+    speaker: null
+  - time: "09:00 PM"
+    title: "Networking Event Ends"
+    speaker: null
+
+sunday:
+  - time: "08:00 AM"
+    title: "Registration Opens & Breakfast"
+    speaker: null
+  - time: "09:00 AM"
+    title: "Day 2 Opening Remarks"
+    speaker: null
+  - time: "09:20 AM"
+    title: "Keynote"
+    link: "keynotes.md#hynek-schlawack"
+    speaker: "Hynek Schlawack"
+  - time: "10:05 AM"
+    title: "15 Minute Break"
+    speaker: null
+  - time: "10:20 AM"
+    title: "The Bakery: How PEP810 sped up my bread operations business"
+    link: "talks.md#the-bakery-how-pep810-sped-up-my-bread-operations-business"
+    speaker: "Jacob Coffee"
+  - time: "10:50 AM"
+    title: "Python in the Browser: Building Interactive Documentation with MkDocs & JupyterLite"
+    link: "talks.md#python-in-the-browser-building-interactive-documentation-with-mkdocs--jupyterlite"
+    speaker: "Kassandra Keeton, the Prosperous Heart"
+  - time: "11:20 AM"
+    title: "10 Minute Break"
+    speaker: null
+  - time: "11:30 AM"
+    title: "Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways"
+    link: "talks.md#are-api-tests-overrated-lets-mitigate-risks-in-smarter-ways"
+    speaker: "Pandy Knight"
+  - time: "12:00 PM"
+    title: "**SPONSOR TALK** To Be Determined"
+    speaker: "Temporal"
+  - time: "12:20 PM"
+    title: "Lunch"
+    speaker: null
+  - time: "02:00 PM"
+    title: "Introducing Meow'py: Observability for the Internet of Living Things"
+    link: "talks.md#introducing-meowpy-observability-for-the-internet-of-living-things"
+    speaker: "Sophia Solomon"
+  - time: "02:30 PM"
+    title: "Tying Up Loose Threads: Making your Project No-GIL Ready"
+    link: "talks.md#tying-up-loose-threads-making-your-project-no-gil-ready"
+    speaker: "Charlie Lin"
+  - time: "03:00 PM"
+    title: "10 Minute Break"
+    spaker: null
+  - time: "03:10 PM"
+    title: "Upgrading Python CLIs: From Scripts to Interactive Tools"
+    link: "talks.md#upgrading-python-clis-from-scripts-to-interactive-tools"
+    speaker: "Avik Basu"
+  - time: "03:40 PM"
+    title: "Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling"
+    link: "talks.md#lint-fast-type-hard-elevate-your-code-quality-in-python-with-modern-ultra-fast-tooling"
+    speaker: "Miguel Vargas"
+  - time: "04:10 PM"
+    title: "Lightning Talks"
+    speaker: null
+  - time: "04:50 PM"
+    title: "Closing Remarks"
+    speaker: null

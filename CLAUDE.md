@@ -87,11 +87,17 @@ docs/                    # Main content directory
 ├── sponsors/           # Sponsorship information
 │   ├── index.md        # Sponsors page
 │   └── sponsor-us.md   # Sponsorship opportunities
+├── schedule/           # Conference schedule
+│   └── index.md        # Generated from data/schedule.yaml
 ├── faq.md              # Frequently asked questions
 ├── assets/             # Static assets
 │   ├── images/         # Images and logos
 │   └── docs/           # Downloadable documents
 └── stylesheets/        # Custom CSS
+hooks/                  # MkDocs build hooks
+└── schedule.py         # Auto-generates schedule during build
+data/                   # Source data files
+└── schedule.yaml       # Conference schedule data
 overrides/              # Theme customizations
 mkdocs.yml              # Site configuration
 pyproject.toml          # Python project configuration
@@ -99,6 +105,14 @@ uv.lock                 # Dependency lockfile
 justfile                # Task automation with just command runner
 .python-version         # Python version specification
 ```
+
+### Editing the Schedule
+
+The conference schedule is automatically generated from `data/schedule.yaml` during the build process. To update the schedule:
+
+1. Edit `data/schedule.yaml` with your changes
+2. Run `just serve` or `just build` - the schedule regenerates automatically via the `on_pre_build` hook in `hooks/schedule.py`
+3. The generated markdown appears in `docs/schedule/index.md` (do not edit directly)
 
 ## Development Notes
 

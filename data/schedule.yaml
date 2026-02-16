@@ -28,7 +28,8 @@ friday:
     link: "tutorials.md#becoming-a-better-python-developer-with-ai"
     speaker: "Bernát Gábor"
   - time: "04:30pm - 06:00pm"
-    title: "SPONSOR TUTORIAL To Be Determined"
+    title: "Build Agentic AI with Semantic Kernel and Graph RAG on PostgreSQL (Sponsored)"
+    link: "tutorials.md#build-agentic-ai-with-semantic-kernel-and-graph-rag-on-postgresql-sponsored"
     speaker: "Microsoft"
 
 saturday:
@@ -87,7 +88,8 @@ saturday:
     link: "talks.md#failed-experiments-in-vibe-coding"
     speaker: "Al Sweigart"
   - time: "04:30 PM"
-    title: "**SPONSOR TALK** To Be Determined"
+    title: "Building a Full-Stack FastAPI App with Open Source DocumentDB via Docker (Sponsored)"
+    link: "tutorials.md#building-a-full-stack-fastapi-app-with-open-source-documentdb-via-docker-sponsored"
     speaker: "Microsoft"
   - time: "06:00 PM"
     title: "Lightning Talks"

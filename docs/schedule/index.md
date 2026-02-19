@@ -12,7 +12,7 @@ description: A full schedule grid for the event
 | 09:00am - 12:00pm | [Import is Important: The Secret Life of Python Modules and Packages](tutorials.md#import-is-important-the-secret-life-of-python-modules-and-packages) | Heather Crawford |
 | 12:00pm - 1:30pm | Lunch |  |
 | 01:30pm - 04:30pm | [Becoming a Better Python Developer with AI](tutorials.md#becoming-a-better-python-developer-with-ai) | Bernát Gábor |
-| 04:30pm - 06:00pm | SPONSOR TUTORIAL To Be Determined | Microsoft |
+| 04:30pm - 06:00pm | [Build Agentic AI with Semantic Kernel and Graph RAG on PostgreSQL (Sponsored)](tutorials.md#build-agentic-ai-with-semantic-kernel-and-graph-rag-on-postgresql-sponsored) | Microsoft |
 
 ## Saturday
 
@@ -33,7 +33,7 @@ description: A full schedule grid for the event
 | 03:15&nbsp;PM | [Data Engineer's survival guide: writing pipelines that don't break at 3 AM](talks.md#data-engineers-survival-guide-writing-pipelines-that-dont-break-at-3-am)<br/>Indrasena Manga |
 | 03:45&nbsp;PM | 15-Minute Break |
 | 04:00&nbsp;PM | [Failed Experiments in Vibe Coding](talks.md#failed-experiments-in-vibe-coding)<br/>Al Sweigart |
-| 04:30&nbsp;PM | **SPONSOR TALK** To Be Determined<br/>Microsoft |
+| 04:30&nbsp;PM | [Building a Full-Stack FastAPI App with Open Source DocumentDB via Docker (Sponsored)](tutorials.md#building-a-full-stack-fastapi-app-with-open-source-documentdb-via-docker-sponsored)<br/>Microsoft |
 | 06:00&nbsp;PM | Lightning Talks |
 | 06:30&nbsp;PM | Networking Event Starts |
 | 09:00&nbsp;PM | Networking Event Ends |

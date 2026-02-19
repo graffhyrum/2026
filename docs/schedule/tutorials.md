@@ -9,7 +9,7 @@ description: Tutorials will be held April 17, 2026.
 | :---------------: | :------: | :--------: |
 | 09:00am - 12:00pm | [Import is Important: The Secret Life of Python Modules and Packages](#import-is-important-the-secret-life-of-python-modules-and-packages)  |    Heather Crawford
 | 01:00pm - 04:00pm | [Becoming a Better Python Developer with AI](#becoming-a-better-python-developer-with-ai) | Bernát Gábor
-| 04:30pm - 06:00pm | [**SPONSOR TUTORIAL** To Be Determined](#sponsor-tutorial-to-be-determined) | Microsoft
+| 04:30pm - 06:00pm | [Build Agentic AI with Semantic Kernel and Graph RAG on PostgreSQL (Sponsored)](#build-agentic-ai-with-semantic-kernel-and-graph-rag-on-postgresql-sponsored) | Microsoft
 
 ## Tutorials
 
@@ -83,8 +83,32 @@ _Bernát works at Bloomberg US - Los Angeles on the data ingestion pipelines qua
 
 <br clear="all">
 
-### **SPONSOR TUTORIAL** To Be Determined
+### Build Agentic AI with Semantic Kernel and Graph RAG on PostgreSQL (Sponsored)
 
-Details coming soon.
+In this hands-on lab, you will build an agent-driven Retrieval-Augmented Generation (RAG) application using a U.S. Case Law dataset. You will work with Azure Database for PostgreSQL, Visual Studio Code, and the Semantic Kernel Agent Framework to explore AI-powered text and vector search. The lab also introduces GraphRAG with Apache AGE, enabling enriched querying across structured and graph-based data. By the end, you'll gain practical skills in semantic search, vector indexing, and intelligent data retrieval.
+
+**Topics Covered:**
+
+* Setup your Azure PostgreSQL Database
+* Launch PSQL Command Line Shell in VS Code
+* Using AI-driven features in Postgres
+* Using Semantic Vector Search and DiskANN Index
+* Perform a Semantic Search Query
+* Semantic Agent Configuration and Plugin Assembly
+
+#### Presenter: Microsoft
+
+### Building a Full-Stack FastAPI App with Open Source DocumentDB via Docker (Sponsored)
+
+This hands-on lab guides you through the process of building a modern, full-stack web application using FastAPI for the backend and open source DocumentDB as the database, all orchestrated with Docker containers. Attendees will learn how to rapidly prototype and deploy scalable Python APIs, leverage containerization for consistent development and testing, and integrate with DocumentDB for flexible, cloud-ready data storage.
+
+**Topics Covered:**
+
+* Setting up a FastAPI backend and connecting it to DocumentDB using Docker Compose.
+* Best practices for local development, testing, and CI/CD integration with Docker.
+* How open source DocumentDB enables rapid iteration and seamless migration to cloud environments.
+* Real-world patterns for building, running, and debugging full-stack apps in isolated, reproducible environments.
+
+By the end of the lab, you'll have a working application, a deeper understanding of containerized development workflows, and practical experience with the latest open source tools for Python and NoSQL development.
 
 #### Presenter: Microsoft

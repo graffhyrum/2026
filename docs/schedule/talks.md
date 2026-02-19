@@ -147,7 +147,7 @@ Modern Python tooling has turned code quality into a speed advantage. This talk 
 
 **Speaker: Miguel Vargas**
 
-![Miguel Vargas Headshot](https://pretalx.com/media/avatars/KBMPUQ_9hNPcUL.webp){: width="150" align=left}
+![Miguel Vargas Headshot](https://pretalx.com/media/avatars/KBMPUQ_Kzd91NX.webp){: width="150" align=left}
 
 _Software engineer from Ecuador with over a decade of experience across healthcare, fintech, and real estate startups. I build with Python and TypeScript, focusing on Django, FastAPI, React, and Next.js. I'm driven by a deep interest in math, science, AI, and robotics._
 

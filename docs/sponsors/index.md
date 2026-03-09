@@ -14,6 +14,8 @@ Add your name to this list!
 
 [![Temporal Sponsor Logo](../assets/images/sponsors/temporal.png){: width="350" align="left" .sponsor}](https://temporal.io/)
 
+[![Anaconda Sponsor Logo](../assets/images/sponsors/anaconda.svg){: width="350" align="left" .sponsor}](https://www.anaconda.com/)
+
 <br clear=all>
 
 

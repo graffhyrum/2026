@@ -10,25 +10,25 @@ Add your name to this list!
 
 ## Platinum Sponsors
 
-[![Microsoft Sponsor Logo](../assets/images/sponsors/microsoft.png){: width="350" align="left" .sponsor}](https://www.microsoft.com/en-us/)
+[![Microsoft Sponsor Logo](../assets/images/sponsors/microsoft.png){: width="280" align="left" .sponsor}](https://www.microsoft.com/en-us/)
 
-[![Temporal Sponsor Logo](../assets/images/sponsors/temporal.png){: width="350" align="left" .sponsor}](https://temporal.io/)
+[![Temporal Sponsor Logo](../assets/images/sponsors/temporal.png){: width="280" align="left" .sponsor}](https://temporal.io/)
 
-[![Anaconda Sponsor Logo](../assets/images/sponsors/anaconda.svg){: width="350" align="left" .sponsor}](https://www.anaconda.com/)
+[![Anaconda Sponsor Logo](../assets/images/sponsors/anaconda.svg){: width="280" align="left" .sponsor}](https://www.anaconda.com/)
 
 <br clear=all>
 
 
 ## Gold Sponsors
 
-[![Elastic Sponsor Logo](../assets/images/sponsors/elastic.png){: width="300" align="left" .sponsor}](https://www.elastic.co/)
+[![Elastic Sponsor Logo](../assets/images/sponsors/elastic.png){: width="220" align="left" .sponsor}](https://www.elastic.co/)
 
 <br clear=all>
 
 
 ## Networking Event Sponsors
 
-[![GitButler Sponsor Logo](../assets/images/sponsors/GitButler.png){: width="300" align="left" .sponsor}](https://gitbutler.com/)
+[![GitButler Sponsor Logo](../assets/images/sponsors/GitButler.png){: width="200" align="left" .sponsor}](https://gitbutler.com/)
 
 <br clear=all>
 
@@ -37,4 +37,4 @@ Add your name to this list!
 
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="150" align="left" .sponsor}](https://devitjobs.com/jobs/python/all/all)
 
-[![Pretix Sponsor Logo](../assets/images/sponsors/pretix.svg){: width="300" align="left" .sponsor}](https://pretix.eu/)
+[![Pretix Sponsor Logo](../assets/images/sponsors/pretix.svg){: width="200" align="left" .sponsor}](https://pretix.eu/)

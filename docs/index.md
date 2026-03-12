@@ -23,7 +23,7 @@ Join us for the **20th year** of the largest gathering of Python developers with
 
     ---
 
-    Tickets are on sale now!
+    Tutorials on April 17, talks on April 18-19. Tickets are on sale now!
 
     [:octicons-arrow-right-24: Purchase your ticket](https://pretix.eu/pytexas/2026/)
 
@@ -31,21 +31,21 @@ Join us for the **20th year** of the largest gathering of Python developers with
 
     ---
 
-    Our Call for Proposals has closed. We're reviewing submissions and will announce speakers in late January/early February!
+    Our speakers have been announced! Check out our [keynotes](schedule/keynotes.md), [talks](schedule/talks.md), and [tutorials](schedule/tutorials.md).
 
-    [:octicons-arrow-right-24: Subscribe for speaker announcements](https://mailchi.mp/035388afb48a/pytexas-community)
+    [:octicons-arrow-right-24: View the full schedule](schedule/index.md)
 
 -   :fontawesome-solid-scale-balanced:{ .lg .middle} __Code of Conduct__
 
     ---
 
-    Review our [Code of Conduct](about.md#code-of-conduct).
+    At PyTexas, y'all means all. We're committed to a welcoming experience for everyone. Review our [Code of Conduct](about.md#code-of-conduct).
 
 -   :fontawesome-solid-building:{ .lg .middle} __Venue__
 
     ---
 
-    We will be returning to the [Austin Central Library](attend/in-person.md#venue).
+    We're returning to the [Austin Central Library](attend/in-person.md#venue) in downtown Austin. Check out [parking](attend/in-person.md#parking), [hotels](attend/in-person.md#hotels), and [food](attend/in-person.md#food) info.
 
 -   :fontawesome-regular-envelope:{ .lg .middle} __Join Our Mailing List__
 

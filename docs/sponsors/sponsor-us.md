@@ -23,7 +23,7 @@ Email us at [sponsorship@pytexas.org](mailto:sponsorship@pytexas.org) to be adde
 | Sponsored talk<br/>Slot before lunch, 20 minutes | :fontawesome-solid-check: [^2] ||||||||
 | Logo on lanyard | |||| :fontawesome-solid-check: ||
 | Logo on PyTexas videos and live stream | ||||| :fontawesome-solid-check: ||
-| Logo at breakfast, lunch,<br/>and snacks one day<br/>OR<br/>Logo at coffee area both days [^3] | |||||| :fontawesome-solid-check: ||
+| Custom signage/message at breakfast, lunch,<br/>and snacks one day<br/>OR<br/>Logo at coffee area both days [^3] | |||||| :fontawesome-solid-check: ||
 | Popup banner option | ||| :fontawesome-solid-check: |||
 | Logo on website | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |
 | Logo on opening and<br/>closing slides | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: | :fontawesome-solid-check: |

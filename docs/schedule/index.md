@@ -47,7 +47,7 @@ description: A full schedule grid for the event
 | 09:20&nbsp;AM | [Keynote](keynotes.md#hynek-schlawack)<br/>Hynek Schlawack |
 | 10:05&nbsp;AM | 15 Minute Break |
 | 10:20&nbsp;AM | [The Bakery: How PEP810 sped up my bread operations business](talks.md#the-bakery-how-pep810-sped-up-my-bread-operations-business)<br/>Jacob Coffee |
-| 10:50&nbsp;AM | [Python in the Browser: Building Interactive Documentation with MkDocs & JupyterLite](talks.md#python-in-the-browser-building-interactive-documentation-with-mkdocs--jupyterlite)<br/>Kassandra Keeton, the Prosperous Heart |
+| 10:50&nbsp;AM | [Python in the Browser: Building Interactive Documentation with MkDocs & JupyterLite](talks.md#python-in-the-browser-building-interactive-documentation-with-mkdocs-jupyterlite)<br/>Kassandra Keeton, the Prosperous Heart |
 | 11:20&nbsp;AM | 10 Minute Break |
 | 11:30&nbsp;AM | [Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways](talks.md#are-api-tests-overrated-lets-mitigate-risks-in-smarter-ways)<br/>Pandy Knight |
 | 12:00&nbsp;PM | **SPONSOR TALK** To Be Determined<br/>Temporal |

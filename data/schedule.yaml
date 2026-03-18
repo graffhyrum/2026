@@ -121,7 +121,7 @@ sunday:
     speaker: "Jacob Coffee"
   - time: "10:50 AM"
     title: "Python in the Browser: Building Interactive Documentation with MkDocs & JupyterLite"
-    link: "talks.md#python-in-the-browser-building-interactive-documentation-with-mkdocs--jupyterlite"
+    link: "talks.md#python-in-the-browser-building-interactive-documentation-with-mkdocs-jupyterlite"
     speaker: "Kassandra Keeton, the Prosperous Heart"
   - time: "11:20 AM"
     title: "10 Minute Break"
@@ -146,7 +146,7 @@ sunday:
     speaker: "Charlie Lin"
   - time: "03:00 PM"
     title: "10 Minute Break"
-    spaker: null
+    speaker: null
   - time: "03:10 PM"
     title: "Upgrading Python CLIs: From Scripts to Interactive Tools"
     link: "talks.md#upgrading-python-clis-from-scripts-to-interactive-tools"

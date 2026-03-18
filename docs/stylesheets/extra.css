@@ -69,22 +69,6 @@
     display: none;
 }
 
-[data-md-color-scheme="pytx2026_light"] div[class~="hide-if-dark"]>svg {
-    width: auto;
-}
-
-[data-md-color-scheme="pytx2026_light"] div[class~="hide-if-dark"]>img {
-    width: auto;
-}
-
-[data-md-color-scheme="pytx2026"] div[class~="hide-if-light"]>svg {
-    width: auto;
-}
-
-[data-md-color-scheme="pytx2026"] div[class~="hide-if-light"]>img {
-    width: auto;
-}
-
 [data-md-color-scheme="pytx2026_light"] div[class~="pytx-container"] {
     background: linear-gradient(to bottom, #f9f3e3, #ffffff);
 }
@@ -233,6 +217,9 @@ figcaption>a:focus {
     color: var(--pytx-light-cream);
 }
 
+/* overflow: hidden clips the hero image's top overflow (sunrays).
+   The image is bottom-aligned in .pytx-hero__image via align-items: flex-end,
+   so only the top extends beyond this container. */
 .pytx-container {
     background: var(--md-primary-bg-color);
     display: block;

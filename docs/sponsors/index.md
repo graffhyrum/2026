@@ -33,6 +33,13 @@ Add your name to this list!
 <br clear=all>
 
 
+## Lanyard Sponsors
+
+[![Bloomberg Sponsor Logo](../assets/images/sponsors/bloomberg.png){: width="220" align="left" .sponsor}](https://www.bloomberg.com/)
+
+<br clear=all>
+
+
 ## Media and Technology Sponsors
 
 [![DevIT US Sponsor Logo](../assets/images/sponsors/devitus-square2.png){: width="150" align="left" .sponsor}](https://devitjobs.com/jobs/python/all/all)

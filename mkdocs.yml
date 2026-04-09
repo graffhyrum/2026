@@ -2,7 +2,7 @@ site_name: PyTexas 2026 Conference
 site_author: PyTexas Foundation
 site_url: https://pytexas.org/2026/
 repo_url: https://github.com/pytexas/2026
-repo_name: pytexas/conference-site
+repo_name: pytexas/2026
 edit_uri: edit/main/docs/
 extra_css:
   - stylesheets/extra.css

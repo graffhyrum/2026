@@ -5,11 +5,22 @@ description: Tutorials will be held April 17, 2026.
 
 ## Schedule
 
+!!! info "Microsoft Sponsored Tutorials — Open to All Weekend Attendees"
+    Both Microsoft-sponsored tutorials are open to **all weekend ticket holders**. If you hold a Saturday/Sunday conference ticket but do not have a Friday tutorials ticket, you are still welcome to attend these sessions.
+
+### Friday, April 17
+
 |       Time        | Tutorial | Instructor |
 | :---------------: | :------: | :--------: |
-| 09:00am - 12:00pm | [Import is Important: The Secret Life of Python Modules and Packages](#import-is-important-the-secret-life-of-python-modules-and-packages)  |    Heather Crawford
-| 01:00pm - 04:00pm | [Becoming a Better Python Developer with AI](#becoming-a-better-python-developer-with-ai) | Bernát Gábor
-| 04:30pm - 06:00pm | [Build Agentic AI with Semantic Kernel and Graph RAG on PostgreSQL (Sponsored)](#build-agentic-ai-with-semantic-kernel-and-graph-rag-on-postgresql-sponsored) | Microsoft
+| 09:00am - 12:00pm | [Import is Important: The Secret Life of Python Modules and Packages](#import-is-important-the-secret-life-of-python-modules-and-packages)  | Heather Crawford |
+| 01:30pm - 04:30pm | [Becoming a Better Python Developer with AI](#becoming-a-better-python-developer-with-ai) | Bernát Gábor |
+| 04:30pm - 06:00pm | [Build Agentic AI with Semantic Kernel and Graph RAG on PostgreSQL (Sponsored)](#build-agentic-ai-with-semantic-kernel-and-graph-rag-on-postgresql-sponsored) | Microsoft |
+
+### Saturday, April 18
+
+|       Time        | Tutorial | Instructor |
+| :---------------: | :------: | :--------: |
+| 04:30pm - 06:00pm | [Building a Full-Stack FastAPI App with Open Source DocumentDB via Docker (Sponsored)](#building-a-full-stack-fastapi-app-with-open-source-documentdb-via-docker-sponsored) | Microsoft |
 
 ## Tutorials
 

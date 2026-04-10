@@ -23,7 +23,8 @@ serve-port PORT="8001":
 
 # Check all links using lychee against the built site (builds first)
 link-check: build
-    lychee --cache --verbose 'site/**/*.html'
+    ln -sfn site 2026
+    lychee --cache --verbose --root-dir . 'site/**/*.html'; STATUS=$?; rm -f 2026; exit $STATUS
 
 # Clean generated files and cache
 clean:

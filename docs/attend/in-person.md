@@ -35,9 +35,31 @@ To name a few....
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1NLuUc4jblcWRTQzlvw5oZGWa7dWPyhA&ehbc=2E312F" width="640" height="480"></iframe>
 
+#### Quick Eats & Drinks
+
+<div class="annotate" markdown>
+
+* **[Remedy](https://www.remedyaustin.com/)** (1)
+* **[Jo's Coffee – Downtown](https://www.google.com/maps?cid=12201203717436125290)** (2)
+* [Whataburger (A Texas Classic)](https://goo.gl/maps/KSvhPNudTdJEypU17)
+* [sweetgreen](https://maps.app.goo.gl/NTV238BjdLw1s2cm6)
+* [Whole Foods Market](https://goo.gl/maps/fHnstkp1TMBvndKy8)
+* [Starbucks](https://goo.gl/maps/bJPQEDYay6okAru49)
+* [The Picnic - Food Truck Park](https://maps.app.goo.gl/MpjysCdGFggWU8986)
+* [Thundercloud Subs](https://maps.app.goo.gl/NHZTYjyjJRQPCmAb8)
+* [P.Terry's Burger Stand](https://g.page/pterrys-barton-springs?share)
+* [Meat & Bread](https://www.meatandbread.com/northshore)
+* [Flower Child](https://www.google.com/maps/search/?api=1&query=Flower+Child&query_place_id=ChIJ3UopDw-1RIYRj--DsoM4Rq8)
+* [Mamaka Bowls](https://www.mamakabowls.com/)
+
+</div>
+
+1.  PyTexas Network Event 2025
+2.  PyTexas Happy Hour 2019, 2022, 2023, 2024
+
 #### BBQ
 
-* [Lamberts](https://maps.app.goo.gl/KxnKaTX6MiUhcZeCA) _We recommend a reservation_
+* [Lamberts](https://maps.app.goo.gl/KxnKaTX6MiUhcZeCA) _We recommend a reservation_ ***or you will not make it back before we resume.***
 * [Terry Black's Barbecue](https://g.page/terryblacksbbq?share)
 * [Cooper's Old Time Pit Bar-B-Que](https://goo.gl/maps/9dgX5GfyCg2oDr6FA)
 * [Stubb's Bar-B-Q](https://goo.gl/maps/XwbTnL3pbnYhFeBq9)
@@ -52,16 +74,8 @@ To name a few....
 * [Tacodeli](https://maps.app.goo.gl/8VWhyYsTpWQAVwci7)
 * [El Alma](https://g.page/elalma_atx?share)
 * [Taquero Mucho](https://maps.app.goo.gl/GtRXukH5KChAgtw29)
-
-#### Fast Food
-
-* [Whataburger (A Texas Classic)](https://goo.gl/maps/KSvhPNudTdJEypU17)
-* [sweetgreen](https://maps.app.goo.gl/NTV238BjdLw1s2cm6)
-* [Whole Foods Market](https://goo.gl/maps/fHnstkp1TMBvndKy8)
-* [Starbucks](https://goo.gl/maps/bJPQEDYay6okAru49)
-* [The Picnic - Food Truck Park](https://maps.app.goo.gl/MpjysCdGFggWU8986)
-* [Thundercloud Subs](https://maps.app.goo.gl/NHZTYjyjJRQPCmAb8)
-* [P.Terry's Burger Stand](https://g.page/pterrys-barton-springs?share)
+* [Polvo's Downtown Central](https://www.google.com/maps?cid=11619529830208464827)
+* [Baby Acapulco](https://www.google.com/maps/place/Baby+Acapulco/@30.26303,-97.7624,15z/data=!4m5!3m4!1s0x0:0xf43d119cd2379d2!8m2!3d30.26303!4d-97.7624)
 
 ## Parking
 
@@ -73,7 +87,7 @@ The event will be starting before the library is open. **Be sure to use the Sout
 
 If the parking garage is full, there are other parking options nearby.
 
-* [Austin City Hall Garage](https://www.austintexas.gov/cityhallparking)
+* [Austin City Hall Garage](https://abmparking.com/facilities/austin-city-hall-garage/)
 * [Silicon Labs Garage](https://www.parkme.com/lot/82674/silicon-labs-garage-austin-tx)
 * [Violet Crown parking garage](https://www.parkme.com/lot/26607/amli-on-2nd-parking-austin-tx)
 * Street parking

@@ -5,6 +5,10 @@ description: Get your ticket today!
 
 # Attend PyTexas
 
+Click below to access the Attendee Guide!
+
+[Attendee Guide](https://docs.google.com/document/d/1078R0epUGqthTzvggwgLGuXUhu8eecGeVClB6xuKjM0/edit?usp=drive_web&ouid=113545413620274301995){: .md-button .pytx-button--primary}
+
 ## Venue
 
 PyTexas 2026 is being held at the [Austin Central Public Library](http://library.austintexas.gov/central-library) in
@@ -93,6 +97,17 @@ If the parking garage is full, there are other parking options nearby.
 * Street parking
 
 **[Parking Options Map](../assets/docs/downtownparkingmap.pdf)**
+
+## Network Event
+
+Our Network Event will take place on the [Rooftop Garden](https://library.austintexas.gov/node/1734923) (6th Floor) of the Austin Central Public Library from 6:30pm - 9:00pm Saturday, April 18 following the events of the day.
+Enjoy food and drink and mingle with other attendees. Food and beverage will be provided.
+
+!!! warning "After Library Hours Access"
+    The Roof Garden is located on the 6th Floor of the Central Library. Guests will have access via
+    the 2nd St. entrance **ONLY**, located between the café and Recycled Reads Gift Shop.
+    Access to the 6th Floor is available via elevators in the main Lobby. The atrium stairs are not
+    available for use, and all other floors will be closed.
 
 ## 2026 Health and Safety Guidelines
 

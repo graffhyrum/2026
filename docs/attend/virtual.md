@@ -28,6 +28,9 @@ The virtual conference portion will be held in the [PyTexas Discord Server](http
             and we'll get this fixed for you.
 
 
+!!! note
+    Only speakers will have access to the virtual greenroom.
+
 ## Watching the Talks
 
 All talks will be streamed via an unlisted stream on the PyTexas YouTube channel. 

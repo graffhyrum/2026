@@ -26,7 +26,7 @@ description: A full schedule grid for the event
 | 10:50&nbsp;AM | [I Built an AI Running Coach (That Actually Remembers My Training)](talks.md#i-built-an-ai-running-coach-that-actually-remembers-my-training)<br/>Adam Gordon Bell |
 | 11:20&nbsp;AM | 10 Minute Break |
 | 11:30&nbsp;AM | [Using MCP to Build Safe, Auditable AI Systems in Python](talks.md#using-mcp-to-build-safe-auditable-ai-systems-in-python)<br/>Maria Silvia Mielniczuk |
-| 12:00&nbsp;PM | Data Visualization in Python (Sponsored)<br/>Anaconda / Dr. James A. Bednar |
+| 12:00&nbsp;PM | [Data Visualization in Python (Sponsored)](talks.md#data-visualization-in-python-sponsored)<br/>Anaconda / Dr. James A. Bednar |
 | 12:20&nbsp;PM | Lunch |
 | 02:00&nbsp;PM | [Why Installing Python Packages Is Still a Security Risk](talks.md#why-installing-python-packages-is-still-a-security-risk)<br/>Christopher Ariza |
 | 02:30&nbsp;PM | [Behind the Magic: Unlocking Python's Descriptor Protocol](talks.md#behind-the-magic-unlocking-pythons-descriptor-protocol)<br/>Scott Irwin |
@@ -51,7 +51,7 @@ description: A full schedule grid for the event
 | 10:50&nbsp;AM | [Python in the Browser: Building Interactive Documentation with MkDocs & JupyterLite](talks.md#python-in-the-browser-building-interactive-documentation-with-mkdocs-jupyterlite)<br/>Kassandra Keeton, the Prosperous Heart |
 | 11:20&nbsp;AM | 10 Minute Break |
 | 11:30&nbsp;AM | [Mastered development but still stuck? The hidden power of soft skills in your codebase.](talks.md#mastered-development-but-still-stuck-the-hidden-power-of-soft-skills-in-your-codebase)<br/>Sumaiya Nalukwago |
-| 12:00&nbsp;PM | **SPONSOR TALK** To Be Determined<br/>Temporal |
+| 12:00&nbsp;PM | [Events are the Wrong Abstraction (Sponsored)](talks.md#events-are-the-wrong-abstraction-sponsored)<br/>Temporal / Mason Egger |
 | 12:20&nbsp;PM | Lunch |
 | 02:00&nbsp;PM | [Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways](talks.md#are-api-tests-overrated-lets-mitigate-risks-in-smarter-ways)<br/>Pandy Knight |
 | 02:30&nbsp;PM | [Introducing Meow'py: Observability for the Internet of Living Things](talks.md#introducing-meowpy-observability-for-the-internet-of-living-things)<br/>Sophia Solomon |

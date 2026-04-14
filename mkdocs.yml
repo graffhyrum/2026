@@ -54,8 +54,8 @@ nav:
   - About: about.md
   - Attend:
       - In Person Attendance: attend/in-person.md
-      - Opportunity Grants: attend/grants.md
-      #- Virtual Attendance: attend/virtual.md
+      #- Opportunity Grants: attend/grants.md
+      - Virtual Attendance: attend/virtual.md
   - Sponsors:
       - Our Sponsors: sponsors/index.md
       - Sponsor Us: sponsors/sponsor-us.md
@@ -73,10 +73,9 @@ plugins:
       cards_layout_options:
         background_color: "#f9f3e3"
         color: "#204F3C"
- # - redirects:
- #     redirect_maps:
- #       "slido.md": "https://app.sli.do/event/jvbu7Qns7A1BRRsXJQqgHt"
- #       "reg.md": "https://forms.gle/2zJZKi68eJcefoDW7"
+  - redirects:
+      redirect_maps:
+        "slido.md": "https://app.sli.do/event/xanopQFetyo6v584oeYLPM"
 hooks:
   - hooks/schedule.py
 extra:
@@ -90,7 +89,7 @@ extra:
       name: Mastodon
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/pytexas.org
-      name: Bluesy
+      name: Bluesky
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/profile.php?id=61583603924409
       name: Facebook

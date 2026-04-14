@@ -3,7 +3,33 @@ Title: Accepted Talks
 description: We have accepted 15 talks for this year's PyTexas. Topics include AI, Python features, security, data engineering, observability, and more!
 ---
 
-These are the talks accepted to PyTexas 2026, listed in no particular order. A full schedule will be released closer to the start of the conference.
+These are the talks accepted to PyTexas 2026, listed in schedule order.
+
+## Python as Your DSL
+
+Python's flexibility makes it an excellent choice for creating Domain-Specific Languages (DSLs) that feel natural to domain experts while remaining powerful for developers. From Django's model definitions to Jupyter's configuration format, from SCons build scripts to Kubernetes manifest generation, Python DSLs are everywhere—but what makes a good one versus a confusing mess?
+
+In this talk, we'll explore the art and science of designing Python DSLs that don't fight against the language's principles. You'll learn when to embrace Python's "magic" and when it becomes harmful, how to create APIs that feel pythonic even when they're domain-specific, and practical techniques for building DSLs through detailed analysis of successful real-world examples.
+
+**Speaker: Moshe Zadka**
+
+![Moshe Zadka Headshot](https://pretalx.com/media/avatars/KYYQVJ_v0LCIik.webp){: width="150" align=left}
+
+_Moshe has been a DevOps/SRE since before those terms existed, caring deeply about software reliability, build reproducibility, and other such things. They have worked in companies as small as three people and as big as tens of thousands—usually someplace around where software meets system administration._
+
+<br clear=all>
+
+## I Built an AI Running Coach (That Actually Remembers My Training)
+
+Generic fitness apps don't know when you're sick, stressed, or injured. In this talk, I'll show how I built a personal AI running coach using Python. You'll learn how to reverse-engineer undocumented APIs (like Peloton), handle conflicting data, and use async serverless patterns to give LLMs "memory" and context.
+
+**Speaker: Adam Gordon Bell**
+
+![Adam Gordon Bell Headshot](https://pretalx.com/media/avatars/GWK7YJ_1Hh3llG.webp){: width="150" align=left}
+
+_Adam Gordon Bell is a software engineer and host of the CoRecursive podcast, where he interviews developers about the stories behind their code. He is known for his deep dives into system internals, including his popular work analyzing Python's Timsort merge logic. Currently, he is a Community Engineer at Pulumi, where he helps developers build infrastructure using the programming languages they already know. He works remotely from Canada and enjoys building overly complex Python automations for his daily life._
+
+<br clear=all>
 
 ## Using MCP to Build Safe, Auditable AI Systems in Python
 
@@ -21,43 +47,15 @@ _Maria Silvia Mielniczuk is a data scientist with a Master of Applied Data Scien
 
 <br clear=all>
 
-## I Built an AI Running Coach (That Actually Remembers My Training)
+## Data Visualization in Python (Sponsored)
 
-Generic fitness apps don't know when you're sick, stressed, or injured. In this talk, I'll show how I built a personal AI running coach using Python. You'll learn how to reverse-engineer undocumented APIs (like Peloton), handle conflicting data, and use async serverless patterns to give LLMs "memory" and context.
+With over 150 open-source visualization tools in the Python ecosystem, picking the right one can feel like choosing a restaurant in a city you've never visited - overwhelming, and with real consequences if you get it wrong. This talk cuts through the noise. Dr. Bednar will walk through all the major categories of Python visualization libraries, lay out practical criteria for evaluating them, and show real examples of what each type of tool can actually do. Whether you're exploring a messy dataset, building an interactive dashboard, or publishing a polished figure, there's a right tool for that - and probably a wrong one you're currently using because someone on your team grabbed it first. Stop inheriting other people's defaults, and come find yours!
 
-**Speaker: Adam Gordon Bell**
+**Speaker: Dr. James A. Bednar**
 
-![Adam Gordon Bell Headshot](https://pretalx.com/media/avatars/GWK7YJ_1Hh3llG.webp){: width="150" align=left}
+![Dr. James A. Bednar Headshot](../assets/images/speakers/james.jpg){: width="150" align=left}
 
-_Adam Gordon Bell is a software engineer and host of the CoRecursive podcast, where he interviews developers about the stories behind their code. He is known for his deep dives into system internals, including his popular work analyzing Python's Timsort merge logic. Currently, he is a Community Engineer at Pulumi, where he helps developers build infrastructure using the programming languages they already know. He works remotely from Canada and enjoys building overly complex Python automations for his daily life._
-
-<br clear=all>
-
-## Mastered development but still stuck? The hidden power of soft skills in your codebase.
-
-Your code might be brilliant, passing every test and adhering to best practices, yet some projects still feel stuck, or teams struggle to truly gel. What if the most persistent "bugs" in your development process aren't found in your Traceback but in the human interactions that shape your codebase?
-
-This talk will delve into this often-overlooked reality, exploring why mastering people skills is the ultimate next level for any developer aiming for greater impact and career satisfaction. We will examine the hidden costs of poor communication and a lack of empathy, and uncover how these "soft" skills are, in fact, foundational for robust technical outcomes and a thriving development culture.
-
-**Speaker: Sumaiya Nalukwago**
-
-![Sumaiya Nalukwago Headshot](https://pretalx.com/media/avatars/YZWKNQ_xbBJ8Hj.webp){: width="150" align=left}
-
-_Sumaiya Nalukwago is an experienced IT Professional currently working with Mbarara University of Science and Technology and Tech Community Lead with over six years of proven success in leveraging technology to drive economic development and nurture innovation across Uganda and beyond. As a Community Manager for Google Developer Groups Cloud Mbarara and an Ambassador for Google Women Techmakers (with Technovation), Sumaiya actively skills and mentors thousands of youth and women entrepreneurs in digital literacy, business development, and tech-solution design._
-
-<br clear=all>
-
-## Python as Your DSL
-
-Python's flexibility makes it an excellent choice for creating Domain-Specific Languages (DSLs) that feel natural to domain experts while remaining powerful for developers. From Django's model definitions to Jupyter's configuration format, from SCons build scripts to Kubernetes manifest generation, Python DSLs are everywhere—but what makes a good one versus a confusing mess?
-
-In this talk, we'll explore the art and science of designing Python DSLs that don't fight against the language's principles. You'll learn when to embrace Python's "magic" and when it becomes harmful, how to create APIs that feel pythonic even when they're domain-specific, and practical techniques for building DSLs through detailed analysis of successful real-world examples.
-
-**Speaker: Moshe Zadka**
-
-![Moshe Zadka Headshot](https://pretalx.com/media/avatars/KYYQVJ_v0LCIik.webp){: width="150" align=left}
-
-_Moshe has been a DevOps/SRE since before those terms existed, caring deeply about software reliability, build reproducibility, and other such things. They have worked in companies as small as three people and as big as tens of thousands—usually someplace around where software meets system administration._
+_Senior Director of Professional Services at Anaconda, Inc., founder of the HoloViz project, and former Reader in Computational Neuroscience at U. Edinburgh._
 
 <br clear=all>
 
@@ -103,29 +101,15 @@ _Indrasena Manga, a Senior Data Engineer at AXS.com (Texas, USA) with expertise 
 
 <br clear=all>
 
-## Introducing Meow'py: Observability for the Internet of Living Things
+## Failed Experiments in Vibe Coding
 
-Observability is the cornerstone of our modern distributed systems - if your app has services, having an observable system is crucial. But what if we applied the same logic to living things? This talk introduces my python-coded virtual cat, Meow'py, and basic functions of OpenTelemetry with Elastic Observability. I will show the basic data flow of my app, give a quick code deep dive, and present a demo of Meow'py enjoying his habitat (AKA eating, pooping, attempting escapes..) as his observability stats fluctuate in our Kibana dashboard. Attendees will leave with a greater understanding of OpenTelemetry, and learn the benefits of implementing observability to the internet of things, living or not.
+"AI is going to replace all software engineers if we could just get it to stop deleting the database." This talk explores the possibility of non-developers using AI to "vibe code" software, along with some hilarious failures. Circular mazes, lava lamp screensavers, virtual abacuses, combination lock simulators, and an African geography map quiz: Al Sweigart presents AI-generated Python code that doesn't quite reach success.
 
-**Speaker: Sophia Solomon**
+**Speaker: Al Sweigart**
 
-![Sophia Solomon Headshot](https://pretalx.com/media/avatars/XGSEGN_CSCncDP.webp){: width="150" align=left}
+![Al Sweigart Headshot](https://pretalx.com/media/avatars/HVAES8_0rorN3p.webp){: width="150" align=left}
 
-_Hello, my name is Sophia! With a background in Biochemistry from UT Austin, I discovered a passion for coding in the DIY Diagnostics lab, where wet lab research and software development went hand in hand. After graduating in 2021, I began my career at GM as a Deployment Engineer/Analyst, later transitioning into a Software Engineering role observing real-time LLM based robotic systems on the plant floor. Now, as a Developer Advocate at Elastic, I draw on my experience optimizing and troubleshooting logs, traces, and metrics in high-stakes, in-plant production environments._
-
-<br clear=all>
-
-## Upgrading Python CLIs: From Scripts to Interactive Tools
-
-Most Python command-line tools start simple: print statements, argument parsing, some "--help" outputs and some error handling. They work fine, but as they grow, they become harder to use and debug.
-
-In this talk, we will show that we can do better than that, using libraries like Textual, Rich and Typer. We will cover the process to move from basic scripts into professional Terminal User Interfaces (TUIs) with interactive components, real-time updates and visual feedback. We will go over practical patterns for building tools that you can use for data processing, monitoring or config management.
-
-**Speaker: Avik Basu**
-
-![Avik Basu Headshot](https://pretalx.com/media/avatars/Z7XLKH_Rey05Sy.webp){: width="150" align=left}
-
-_Avik is a seasoned data scientist and software engineer passionate about writing elegant code and building intelligent systems that benefit humanity._
+_Al Sweigart (rhymes with "why dirt") is a software developer, tech book author, artist, and Fellow of the Python Software Foundation. His books include Automate the Boring Stuff with Python, The Recursive Book of Recursion, and The Big Book of Small Python Projects. He is the maintainer of several open source projects, including PyAutoGUI and pyperclip. He enjoys writing software, creating digital art, fostering cats, donating platelets, folding origami, and picking up litter._
 
 <br clear=all>
 
@@ -138,18 +122,6 @@ Discover how PEP 810's explicit lazy imports can dramatically improve Python app
 ![Jacob Coffee Headshot](https://pretalx.com/media/avatars/S9XY8N_8FyIg6i.webp){: width="150" align=left}
 
 _Jacob Coffee is an Infrastructure Engineer at the Python Software Foundation and a newly invited CPython triager. He supports key Python services such as PyPI.org and Python.org while also contributing to the maintenance of the Litestar ecosystem which boasts libraries such as Litestar, Advanced Alchemy, Polyfactory, and more. He is passionate about open-source development, the mission of the PSF, and enhancing the tools that empower developers worldwide._
-
-<br clear=all>
-
-## Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling
-
-Modern Python tooling has turned code quality into a speed advantage. This talk shows how ultra-fast linters, formatters, and type checkers—like Ruff and Pyrefly—remove the usual friction and make best practices feel effortless. You'll learn how to introduce these tools across engineering teams without disruption, why performance drives adoption, and how to build a workflow where quality checks become the fastest part of your day.
-
-**Speaker: Miguel Vargas**
-
-![Miguel Vargas Headshot](https://pretalx.com/media/avatars/KBMPUQ_Kzd91NX.webp){: width="150" align=left}
-
-_Software engineer from Ecuador with over a decade of experience across healthcare, fintech, and real estate startups. I build with Python and TypeScript, focusing on Django, FastAPI, React, and Next.js. I'm driven by a deep interest in math, science, AI, and robotics._
 
 <br clear=all>
 
@@ -167,6 +139,32 @@ _Kassandra is currently a Customer Delivery Software Architect at Cisco Systems 
 
 <br clear=all>
 
+## Mastered development but still stuck? The hidden power of soft skills in your codebase.
+
+Your code might be brilliant, passing every test and adhering to best practices, yet some projects still feel stuck, or teams struggle to truly gel. What if the most persistent "bugs" in your development process aren't found in your Traceback but in the human interactions that shape your codebase?
+
+This talk will delve into this often-overlooked reality, exploring why mastering people skills is the ultimate next level for any developer aiming for greater impact and career satisfaction. We will examine the hidden costs of poor communication and a lack of empathy, and uncover how these "soft" skills are, in fact, foundational for robust technical outcomes and a thriving development culture.
+
+**Speaker: Sumaiya Nalukwago**
+
+![Sumaiya Nalukwago Headshot](https://pretalx.com/media/avatars/YZWKNQ_xbBJ8Hj.webp){: width="150" align=left}
+
+_Sumaiya Nalukwago is an experienced IT Professional currently working with Mbarara University of Science and Technology and Tech Community Lead with over six years of proven success in leveraging technology to drive economic development and nurture innovation across Uganda and beyond. As a Community Manager for Google Developer Groups Cloud Mbarara and an Ambassador for Google Women Techmakers (with Technovation), Sumaiya actively skills and mentors thousands of youth and women entrepreneurs in digital literacy, business development, and tech-solution design._
+
+<br clear=all>
+
+## Events are the Wrong Abstraction (Sponsored)
+
+Modern software applications are distributed systems. They need to connect and communicate with other applications across a network. Event-Driven Architecture is a common pattern for facilitating this connectivity, using Events as the communication abstraction. However, this pattern introduces complexities as well, such as fragmented logic, increased latency, decreased observability, and more. But what if there were a way to get the benefits of Event-Driven Architecture without the complexities?
+
+**Speaker: Mason Egger**
+
+![Mason Egger Headshot](https://github.com/masonegger.png){: width="150" align=left}
+
+_Mason is currently a Senior Solutions Architect at Temporal Technologies, where he works with customers to architect and implement durable execution solutions. He specializes in Python, distributed systems, building community, and creating developer-focused educational content. He's an avid programmer, speaker, educator, and writer/blogger. He is President of the PyTexas Foundation, Conference Chair of the PyTexas Conference, and a founding organizer of the PyTexas Meetup. He was made a PSF Fellow in October 2025._
+
+<br clear=all>
+
 ## Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways
 
 API tests are often seen as essential, but are they always worth the effort? In this talk, we will challenge conventional testing strategies and explore whether API tests are truly the best way to catch meaningful bugs. We will consider smarter alternatives like unit testing handlers, contract testing, and well-placed UI tests — all through the lens of Domain-Driven Design. Rather than advocating for zero API tests, this is a call to be more deliberate about where and why we test. You'll leave with practical insights for building faster, more focused, and more maintainable test suites.
@@ -176,6 +174,18 @@ API tests are often seen as essential, but are they always worth the effort? In 
 ![Pandy Knight Headshot](https://pretalx.com/media/avatars/8WV93W_PThO96W.webp){: width="150" align=left}
 
 _Andrew Knight, also known as "Pandy," is the Automation Panda. He's a software quality champion who loves to help people build better quality software. Currently, he works as the Senior Director of Product Management at Cycle Labs, focusing on building an excellent test automation platform for enterprise systems. Previously, Pandy spent a decade as a SDET building solutions to testing problems at various tech companies. He also previously led Developer Relations and Test Automation University at Applitools. Apart from software, Pandy spends time with his family, his French Bulldog, and his vintage Volkswagens._
+
+<br clear=all>
+
+## Introducing Meow'py: Observability for the Internet of Living Things
+
+Observability is the cornerstone of our modern distributed systems - if your app has services, having an observable system is crucial. But what if we applied the same logic to living things? This talk introduces my python-coded virtual cat, Meow'py, and basic functions of OpenTelemetry with Elastic Observability. I will show the basic data flow of my app, give a quick code deep dive, and present a demo of Meow'py enjoying his habitat (AKA eating, pooping, attempting escapes..) as his observability stats fluctuate in our Kibana dashboard. Attendees will leave with a greater understanding of OpenTelemetry, and learn the benefits of implementing observability to the internet of things, living or not.
+
+**Speaker: Sophia Solomon**
+
+![Sophia Solomon Headshot](https://pretalx.com/media/avatars/XGSEGN_CSCncDP.webp){: width="150" align=left}
+
+_Hello, my name is Sophia! With a background in Biochemistry from UT Austin, I discovered a passion for coding in the DIY Diagnostics lab, where wet lab research and software development went hand in hand. After graduating in 2021, I began my career at GM as a Deployment Engineer/Analyst, later transitioning into a Software Engineering role observing real-time LLM based robotic systems on the plant floor. Now, as a Developer Advocate at Elastic, I draw on my experience optimizing and troubleshooting logs, traces, and metrics in high-stakes, in-plant production environments._
 
 <br clear=all>
 
@@ -191,14 +201,28 @@ _Fervent open-source enthusiast, and (self-inflicted) daily driver of bleeding e
 
 <br clear=all>
 
-## Failed Experiments in Vibe Coding
+## Upgrading Python CLIs: From Scripts to Interactive Tools
 
-"AI is going to replace all software engineers if we could just get it to stop deleting the database." This talk explores the possibility of non-developers using AI to "vibe code" software, along with some hilarious failures. Circular mazes, lava lamp screensavers, virtual abacuses, combination lock simulators, and an African geography map quiz: Al Sweigart presents AI-generated Python code that doesn't quite reach success.
+Most Python command-line tools start simple: print statements, argument parsing, some "--help" outputs and some error handling. They work fine, but as they grow, they become harder to use and debug.
 
-**Speaker: Al Sweigart**
+In this talk, we will show that we can do better than that, using libraries like Textual, Rich and Typer. We will cover the process to move from basic scripts into professional Terminal User Interfaces (TUIs) with interactive components, real-time updates and visual feedback. We will go over practical patterns for building tools that you can use for data processing, monitoring or config management.
 
-![Al Sweigart Headshot](https://pretalx.com/media/avatars/HVAES8_0rorN3p.webp){: width="150" align=left}
+**Speaker: Avik Basu**
 
-_Al Sweigart (rhymes with "why dirt") is a software developer, tech book author, artist, and Fellow of the Python Software Foundation. His books include Automate the Boring Stuff with Python, The Recursive Book of Recursion, and The Big Book of Small Python Projects. He is the maintainer of several open source projects, including PyAutoGUI and pyperclip. He enjoys writing software, creating digital art, fostering cats, donating platelets, folding origami, and picking up litter._
+![Avik Basu Headshot](https://pretalx.com/media/avatars/Z7XLKH_Rey05Sy.webp){: width="150" align=left}
+
+_Avik is a seasoned data scientist and software engineer passionate about writing elegant code and building intelligent systems that benefit humanity._
+
+<br clear=all>
+
+## Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling
+
+Modern Python tooling has turned code quality into a speed advantage. This talk shows how ultra-fast linters, formatters, and type checkers—like Ruff and Pyrefly—remove the usual friction and make best practices feel effortless. You'll learn how to introduce these tools across engineering teams without disruption, why performance drives adoption, and how to build a workflow where quality checks become the fastest part of your day.
+
+**Speaker: Miguel Vargas**
+
+![Miguel Vargas Headshot](https://pretalx.com/media/avatars/KBMPUQ_Kzd91NX.webp){: width="150" align=left}
+
+_Software engineer from Ecuador with over a decade of experience across healthcare, fintech, and real estate startups. I build with Python and TypeScript, focusing on Django, FastAPI, React, and Next.js. I'm driven by a deep interest in math, science, AI, and robotics._
 
 <br clear=all>

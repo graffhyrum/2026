@@ -66,6 +66,7 @@ nav:
       - Keynotes: schedule/keynotes.md
       - Tutorials: schedule/tutorials.md
       - Talks: schedule/talks.md
+      - Open Spaces: schedule/open-spaces.md
   - FAQ: faq.md
 plugins:
   - search
@@ -76,8 +77,8 @@ plugins:
   - redirects:
       redirect_maps:
         "slido.md": "https://app.sli.do/event/xanopQFetyo6v584oeYLPM"
-hooks:
-  - hooks/schedule.py
+# hooks:
+#   - hooks/schedule.py
 extra:
   generator: false
   social:

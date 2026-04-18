@@ -31,11 +31,11 @@ New this year — [**Open Spaces**](open-spaces.md) run Saturday and Sunday afte
 | 11:30&nbsp;AM | [Using MCP to Build Safe, Auditable AI Systems in Python](talks.md#using-mcp-to-build-safe-auditable-ai-systems-in-python)<br/>Maria Silvia Mielniczuk | Submit topics to Laura at registration |
 | 12:00&nbsp;PM | [Data Visualization in Python (Sponsored)](talks.md#data-visualization-in-python-sponsored)<br/>Anaconda / Dr. James A. Bednar | Submit topics to Laura at registration |
 | 12:20&nbsp;PM | Lunch | **Vote on Open Spaces topics at registration!** |
-| 02:00&nbsp;PM | [Why Installing Python Packages Is Still a Security Risk](talks.md#why-installing-python-packages-is-still-a-security-risk)<br/>Christopher Ariza | TBD |
-| 02:30&nbsp;PM | [Behind the Magic: Unlocking Python's Descriptor Protocol](talks.md#behind-the-magic-unlocking-pythons-descriptor-protocol)<br/>Scott Irwin | TBD |
+| 02:00&nbsp;PM | [Why Installing Python Packages Is Still a Security Risk](talks.md#why-installing-python-packages-is-still-a-security-risk)<br/>Christopher Ariza | Long-Term Memory for Coding Agents |
+| 02:30&nbsp;PM | [Behind the Magic: Unlocking Python's Descriptor Protocol](talks.md#behind-the-magic-unlocking-pythons-descriptor-protocol)<br/>Scott Irwin | Python Packaging |
 | 03:00&nbsp;PM | 15-Minute Break | |
-| 03:15&nbsp;PM | [Data Engineer's survival guide: writing pipelines that don't break at 3 AM](talks.md#data-engineers-survival-guide-writing-pipelines-that-dont-break-at-3-am)<br/>Indrasena Manga | TBD |
-| 03:45&nbsp;PM | [Failed Experiments in Vibe Coding](talks.md#failed-experiments-in-vibe-coding)<br/>Al Sweigart | TBD |
+| 03:15&nbsp;PM | [Data Engineer's survival guide: writing pipelines that don't break at 3 AM](talks.md#data-engineers-survival-guide-writing-pipelines-that-dont-break-at-3-am)<br/>Indrasena Manga | Effectively Managing Multiple Coding Agents |
+| 03:45&nbsp;PM | [Failed Experiments in Vibe Coding](talks.md#failed-experiments-in-vibe-coding)<br/>Al Sweigart | Students/Beginners in AI: Setting Up for Success |
 | 04:15&nbsp;PM | 15-Minute Break | |
 | 04:30&nbsp;PM | [Building a Full-Stack FastAPI App with Open Source DocumentDB via Docker (Sponsored)](tutorials.md#building-a-full-stack-fastapi-app-with-open-source-documentdb-via-docker-sponsored)<br/>Microsoft | |
 | 06:00&nbsp;PM | Lightning Talks | |

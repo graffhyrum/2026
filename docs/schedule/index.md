@@ -56,11 +56,11 @@ New this year — [**Open Spaces**](open-spaces.md) run Saturday and Sunday afte
 | 11:30&nbsp;AM | [Mastered development but still stuck? The hidden power of soft skills in your codebase.](talks.md#mastered-development-but-still-stuck-the-hidden-power-of-soft-skills-in-your-codebase)<br/>Sumaiya Nalukwago | Submit topics to Laura at registration |
 | 12:00&nbsp;PM | [Events are the Wrong Abstraction (Sponsored)](talks.md#events-are-the-wrong-abstraction-sponsored)<br/>Temporal / Mason Egger | Submit topics to Laura at registration |
 | 12:20&nbsp;PM | Lunch | **Vote on Open Spaces topics at registration!** |
-| 02:00&nbsp;PM | [Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways](talks.md#are-api-tests-overrated-lets-mitigate-risks-in-smarter-ways)<br/>Pandy Knight | TBD |
-| 02:30&nbsp;PM | [Introducing Meow'py: Observability for the Internet of Living Things](talks.md#introducing-meowpy-observability-for-the-internet-of-living-things)<br/>Sophia Solomon | TBD |
+| 02:00&nbsp;PM | [Are API Tests Overrated? Let's Mitigate Risks in Smarter Ways](talks.md#are-api-tests-overrated-lets-mitigate-risks-in-smarter-ways)<br/>Pandy Knight | Your Career Is Doomed! Prove Me Wrong! |
+| 02:30&nbsp;PM | [Introducing Meow'py: Observability for the Internet of Living Things](talks.md#introducing-meowpy-observability-for-the-internet-of-living-things)<br/>Sophia Solomon | Speech-to-Speech Conversations with Coding Agents |
 | 03:00&nbsp;PM | 15 Minute Break | |
-| 03:15&nbsp;PM | [Tying Up Loose Threads: Making your Project No-GIL Ready](talks.md#tying-up-loose-threads-making-your-project-no-gil-ready)<br/>Charlie Lin | TBD |
-| 03:45&nbsp;PM | [Upgrading Python CLIs: From Scripts to Interactive Tools](talks.md#upgrading-python-clis-from-scripts-to-interactive-tools)<br/>Avik Basu | TBD |
+| 03:15&nbsp;PM | [Tying Up Loose Threads: Making your Project No-GIL Ready](talks.md#tying-up-loose-threads-making-your-project-no-gil-ready)<br/>Charlie Lin | How to Use AI |
+| 03:45&nbsp;PM | [Upgrading Python CLIs: From Scripts to Interactive Tools](talks.md#upgrading-python-clis-from-scripts-to-interactive-tools)<br/>Avik Basu | How Ry03's FFI Interfaces Work (Rust Bindings) |
 | 04:15&nbsp;PM | [Lint Fast, Type Hard: Elevate your code quality in Python with modern, ultra-fast tooling](talks.md#lint-fast-type-hard-elevate-your-code-quality-in-python-with-modern-ultra-fast-tooling)<br/>Miguel Vargas | |
 | 04:45&nbsp;PM | Lightning Talks | |
 | 05:25&nbsp;PM | Closing Remarks | |
